@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+
+    <Item>
+      <id value="2000" />
+      <cost value="5950" />
+      <textLabel>TAT_X2_000</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_000</preset>
+      <updateGroup>ARM_LEFT_LOWER_INNER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2001" />
+      <cost value="4650" />
+      <textLabel>TAT_X2_001</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_001</preset>
+      <updateGroup>LEG_LEFT_CALF</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_LEG</zone>
+    </Item>
+    <Item>
+      <id value="2002" />
+      <cost value="6350" />
+      <textLabel>TAT_X2_002</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_002</preset>
+      <updateGroup>LEG_LEFT_CALF</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_LEG</zone>
+    </Item>
+    <Item>
+      <id value="2003" />
+      <cost value="8450" />
+      <textLabel>TAT_X2_003</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_003</preset>
+      <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2004" />
+      <cost value="13250" />
+      <textLabel>TAT_X2_004</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_004</preset>
+      <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2005" />
+      <cost value="8750" />
+      <textLabel>TAT_X2_005</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_005</preset>
+      <updateGroup>BACK_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2006" />
+      <cost value="14500" />
+      <textLabel>TAT_X2_006</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_006</preset>
+      <updateGroup>BACK_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2007" />
+      <cost value="3950" />
+      <textLabel>TAT_X2_007</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_007</preset>
+      <updateGroup>NECK_LEFT_BACK</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+    <Item>
+      <id value="2008" />
+      <cost value="4300" />
+      <textLabel>TAT_X2_008</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_008</preset>
+      <updateGroup>ARM_RIGHT_LOWER_INNER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2009" />
+      <cost value="7800" />
+      <textLabel>TAT_X2_009</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_009</preset>
+      <updateGroup>CHEST_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2010" />
+      <cost value="6200" />
+      <textLabel>TAT_X2_010</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_010</preset>
+      <updateGroup>ARM_LEFT_LOWER_INNER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2011" />
+      <cost value="6850" />
+      <textLabel>TAT_X2_011</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_011</preset>
+      <updateGroup>BACK_UPPER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2012" />
+      <cost value="8250" />
+      <textLabel>TAT_X2_012</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_012</preset>
+      <updateGroup>ARM_LEFT_UPPER_SIDE</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2013" />
+      <cost value="7900" />
+      <textLabel>TAT_X2_013</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_013</preset>
+      <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2014" />
+      <cost value="10500" />
+      <textLabel>TAT_X2_014</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_014</preset>
+      <updateGroup>LEG_RIGHT_LOWER_OUTER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_LEG</zone>
+    </Item>
+    <Item>
+      <id value="2015" />
+      <cost value="11000" />
+      <textLabel>TAT_X2_015</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_015</preset>
+      <updateGroup>BACK_FULL_SHORT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2016" />
+      <cost value="3150" />
+      <textLabel>TAT_X2_016</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_016</preset>
+      <updateGroup>CHEST_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2017" />
+      <cost value="6350" />
+      <textLabel>TAT_X2_017</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_017</preset>
+      <updateGroup>CHEST_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2018" />
+      <cost value="4300" />
+      <textLabel>TAT_X2_018</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_018</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2019" />
+      <cost value="7500" />
+      <textLabel>TAT_X2_019</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_019</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2020" />
+      <cost value="2500" />
+      <textLabel>TAT_X2_020</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_020</preset>
+      <updateGroup>HAND_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2021" />
+      <cost value="3750" />
+      <textLabel>TAT_X2_021</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_021</preset>
+      <updateGroup>HAND_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2022" />
+      <cost value="3800" />
+      <textLabel>TAT_X2_022</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_022</preset>
+      <updateGroup>ARM_RIGHT_LOWER_OUTER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2023" />
+      <cost value="5100" />
+      <textLabel>TAT_X2_023</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_023</preset>
+      <updateGroup>ARM_RIGHT_LOWER_OUTER</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2024" />
+      <cost value="2100" />
+      <textLabel>TAT_X2_024</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_024</preset>
+      <updateGroup>NECK_RIGHT_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+    <Item>
+      <id value="2025" />
+      <cost value="4600" />
+      <textLabel>TAT_X2_025</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_025</preset>
+      <updateGroup>NECK_RIGHT_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+    <Item>
+      <id value="2026" />
+      <cost value="1300" />
+      <textLabel>TAT_X2_026</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_026</preset>
+      <updateGroup>HAND_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2027" />
+      <cost value="2200" />
+      <textLabel>TAT_X2_027</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_027</preset>
+      <updateGroup>HAND_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2028" />
+      <cost value="5700" />
+      <textLabel>TAT_X2_028</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_028</preset>
+      <updateGroup>STOMACH_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2029" />
+      <cost value="3150" />
+      <textLabel>TAT_X2_029</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_M_Tat_029</preset>
+      <updateGroup>NECK_LEFT_BACK</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+
+    <Item>
+      <id value="2050" />
+      <cost value="5950" />
+      <textLabel>TAT_X2_000</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_000</preset>
+      <updateGroup>ARM_LEFT_LOWER_INNER</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2051" />
+      <cost value="4650" />
+      <textLabel>TAT_X2_001</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_001</preset>
+      <updateGroup>LEG_LEFT_CALF</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_LEG</zone>
+    </Item>
+    <Item>
+      <id value="2052" />
+      <cost value="6350" />
+      <textLabel>TAT_X2_002</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_002</preset>
+      <updateGroup>LEG_LEFT_CALF</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_LEG</zone>
+    </Item>
+    <Item>
+      <id value="2053" />
+      <cost value="8450" />
+      <textLabel>TAT_X2_003</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_003</preset>
+      <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2054" />
+      <cost value="13250" />
+      <textLabel>TAT_X2_004</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_004</preset>
+      <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2055" />
+      <cost value="8750" />
+      <textLabel>TAT_X2_005</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_005</preset>
+      <updateGroup>BACK_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2056" />
+      <cost value="14500" />
+      <textLabel>TAT_X2_006</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_006</preset>
+      <updateGroup>BACK_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2057" />
+      <cost value="3950" />
+      <textLabel>TAT_X2_007</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_007</preset>
+      <updateGroup>NECK_LEFT_BACK</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+    <Item>
+      <id value="2058" />
+      <cost value="4300" />
+      <textLabel>TAT_X2_008</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_008</preset>
+      <updateGroup>ARM_RIGHT_LOWER_INNER</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2059" />
+      <cost value="7800" />
+      <textLabel>TAT_X2_009</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_009</preset>
+      <updateGroup>CHEST_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2060" />
+      <cost value="6200" />
+      <textLabel>TAT_X2_010</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_010</preset>
+      <updateGroup>ARM_LEFT_LOWER_INNER</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2061" />
+      <cost value="6850" />
+      <textLabel>TAT_X2_011</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_011</preset>
+      <updateGroup>BACK_UPPER</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2062" />
+      <cost value="8250" />
+      <textLabel>TAT_X2_012</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_012</preset>
+      <updateGroup>ARM_LEFT_UPPER_SIDE</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2063" />
+      <cost value="7900" />
+      <textLabel>TAT_X2_013</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_013</preset>
+      <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2064" />
+      <cost value="10500" />
+      <textLabel>TAT_X2_014</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_014</preset>
+      <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_LEG</zone>
+    </Item>
+    <Item>
+      <id value="2065" />
+      <cost value="11000" />
+      <textLabel>TAT_X2_015</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_015</preset>
+      <updateGroup>BACK_FULL_SHORT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2066" />
+      <cost value="3150" />
+      <textLabel>TAT_X2_016</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_016</preset>
+      <updateGroup>CHEST_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2067" />
+      <cost value="6350" />
+      <textLabel>TAT_X2_017</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_017</preset>
+      <updateGroup>CHEST_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2068" />
+      <cost value="4300" />
+      <textLabel>TAT_X2_018</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_018</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2069" />
+      <cost value="7500" />
+      <textLabel>TAT_X2_019</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_019</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2070" />
+      <cost value="2500" />
+      <textLabel>TAT_X2_020</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_020</preset>
+      <updateGroup>HAND_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2071" />
+      <cost value="3750" />
+      <textLabel>TAT_X2_021</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_021</preset>
+      <updateGroup>HAND_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_LEFT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2072" />
+      <cost value="3800" />
+      <textLabel>TAT_X2_022</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_022</preset>
+      <updateGroup>ARM_RIGHT_LOWER_OUTER</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2073" />
+      <cost value="5100" />
+      <textLabel>TAT_X2_023</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_023</preset>
+      <updateGroup>ARM_RIGHT_LOWER_OUTER</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_BACK</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2074" />
+      <cost value="2100" />
+      <textLabel>TAT_X2_024</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_024</preset>
+      <updateGroup>NECK_RIGHT_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+    <Item>
+      <id value="2075" />
+      <cost value="4600" />
+      <textLabel>TAT_X2_025</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_025</preset>
+      <updateGroup>NECK_RIGHT_FULL</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+    <Item>
+      <id value="2076" />
+      <cost value="1300" />
+      <textLabel>TAT_X2_026</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_026</preset>
+      <updateGroup>HAND_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2077" />
+      <cost value="2200" />
+      <textLabel>TAT_X2_027</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_027</preset>
+      <updateGroup>HAND_RIGHT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_RIGHT_ARM</zone>
+    </Item>
+    <Item>
+      <id value="2078" />
+      <cost value="5700" />
+      <textLabel>TAT_X2_028</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_028</preset>
+      <updateGroup>STOMACH_LEFT</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+    <Item>
+      <id value="2079" />
+      <cost value="3150" />
+      <textLabel>TAT_X2_029</textLabel>
+      <collection>mpChristmas2_overlays</collection>
+      <preset>MP_Xmas2_F_Tat_029</preset>
+      <updateGroup>NECK_LEFT_BACK</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <lockHash>CU_XMAS2_TATTOOS</lockHash>
+      <zone>PDZ_HEAD</zone>
+    </Item>
+
+
+  </TattooShopItems>
+</TattooShopItemArray>

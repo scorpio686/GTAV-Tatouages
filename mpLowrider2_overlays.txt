@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<Item>
+	  <id value="2700"/>
+	  <cost value="19000"/>
+	  <textLabel>TAT_S2_000</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_000_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2703"/>
+	  <cost value="5950"/>
+	  <textLabel>TAT_S2_003</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_003_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_INNER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2706"/>
+	  <cost value="7450"/>
+	  <textLabel>TAT_S2_006</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_006_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2708"/>
+	  <cost value="18750"/>
+	  <textLabel>TAT_S2_008</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_008_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2711"/>
+	  <cost value="8000"/>
+	  <textLabel>TAT_S2_011</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_011_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2712"/>
+	  <cost value="7650"/>
+	  <textLabel>TAT_S2_012</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_012_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2716"/>
+	  <cost value="6400"/>
+	  <textLabel>TAT_S2_016</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_016_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2718"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_S2_018</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_018_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2719"/>
+	  <cost value="9750"/>
+	  <textLabel>TAT_S2_019</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_019_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2722"/>
+	  <cost value="7350"/>
+	  <textLabel>TAT_S2_022</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_022_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2726"/>
+	  <cost value="8800"/>
+	  <textLabel>TAT_S2_028</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_028_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2727"/>
+	  <cost value="6250"/>
+	  <textLabel>TAT_S2_029</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_029_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2728"/>
+	  <cost value="8150"/>
+	  <textLabel>TAT_S2_030</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_030_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2729"/>
+	  <cost value="16500"/>
+	  <textLabel>TAT_S2_031</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_031_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2730"/>
+	  <cost value="18500"/>
+	  <textLabel>TAT_S2_032</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_032_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2732"/>
+	  <cost value="8250"/>
+	  <textLabel>TAT_S2_035</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_035_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+
+	<Item>
+	  <id value="2733"/>
+	  <cost value="19000"/>
+	  <textLabel>TAT_S2_000</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_000_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2703"/>
+	  <cost value="5950"/>
+	  <textLabel>TAT_S2_003</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_003_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_INNER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2706"/>
+	  <cost value="7450"/>
+	  <textLabel>TAT_S2_006</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_006_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2708"/>
+	  <cost value="18750"/>
+	  <textLabel>TAT_S2_008</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_008_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2711"/>
+	  <cost value="8000"/>
+	  <textLabel>TAT_S2_011</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_011_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2712"/>
+	  <cost value="7650"/>
+	  <textLabel>TAT_S2_012</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_012_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2716"/>
+	  <cost value="6400"/>
+	  <textLabel>TAT_S2_016</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_016_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2718"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_S2_018</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_018_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2719"/>
+	  <cost value="9750"/>
+	  <textLabel>TAT_S2_019</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_019_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2722"/>
+	  <cost value="7350"/>
+	  <textLabel>TAT_S2_022</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_022_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2726"/>
+	  <cost value="8800"/>
+	  <textLabel>TAT_S2_028</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_028_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2727"/>
+	  <cost value="6250"/>
+	  <textLabel>TAT_S2_029</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_029_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2728"/>
+	  <cost value="8150"/>
+	  <textLabel>TAT_S2_030</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_030_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2729"/>
+	  <cost value="16500"/>
+	  <textLabel>TAT_S2_031</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_031_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2730"/>
+	  <cost value="18500"/>
+	  <textLabel>TAT_S2_032</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_032_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2732"/>
+	  <cost value="8250"/>
+	  <textLabel>TAT_S2_035</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_LR_Tat_035_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="915" />
+	  <textLabel>CLO_S2M_D_0</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="900" />
+	  <textLabel>CLO_S2M_D_1</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="885" />
+	  <textLabel>CLO_S2M_D_2</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="945" />
+	  <textLabel>CLO_S2M_D_3</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="930" />
+	  <textLabel>CLO_S2M_D_4</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_006_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="960" />
+	  <textLabel>CLO_S2M_D_5</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_007_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1005" />
+	  <textLabel>CLO_S2M_D_6</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_008_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="990" />
+	  <textLabel>CLO_S2M_D_7</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_009_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="975" />
+	  <textLabel>CLO_S2M_D_8</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_012_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2880" />
+	  <textLabel>CLO_S2M_D_9</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2850" />
+	  <textLabel>CLO_S2M_D_10</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2710" />
+	  <textLabel>CLO_S2M_D_11</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2855" />
+	  <textLabel>CLO_S2M_D_12</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2680" />
+	  <textLabel>CLO_S2M_D_13</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2750" />
+	  <textLabel>CLO_S2M_D_14</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2995" />
+	  <textLabel>CLO_S2M_D_15</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_006_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3275" />
+	  <textLabel>CLO_S2M_D_16</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3455" />
+	  <textLabel>CLO_S2M_D_17</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3685" />
+	  <textLabel>CLO_S2M_D_18</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_010_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3775" />
+	  <textLabel>CLO_S2M_D_19</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_011_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2515" />
+	  <textLabel>CLO_S2M_D_20</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2485" />
+	  <textLabel>CLO_S2M_D_21</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2345" />
+	  <textLabel>CLO_S2M_D_22</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2490" />
+	  <textLabel>CLO_S2M_D_23</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2315" />
+	  <textLabel>CLO_S2M_D_24</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2385" />
+	  <textLabel>CLO_S2M_D_25</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2630" />
+	  <textLabel>CLO_S2M_D_26</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_006_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2910" />
+	  <textLabel>CLO_S2M_D_27</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_007_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="535" />
+	  <textLabel>CLO_S2F_U_0_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_RolledTShirt_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="530" />
+	  <textLabel>CLO_S2F_U_0_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_RolledTShirt_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="490" />
+	  <textLabel>CLO_S2F_U_0_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_RolledTShirt_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="1500" />
+	  <textLabel>CLO_S2F_U_9_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Sports_F_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1135" />
+	  <textLabel>CLO_S2F_U_9_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Sports_F_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1250" />
+	  <textLabel>CLO_S2F_U_9_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Sports_F_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="2880" />
+	  <textLabel>CLO_S2F_D_0</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2850" />
+	  <textLabel>CLO_S2F_D_1</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2710" />
+	  <textLabel>CLO_S2F_D_2</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2855" />
+	  <textLabel>CLO_S2F_D_3</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2680" />
+	  <textLabel>CLO_S2F_D_4</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2750" />
+	  <textLabel>CLO_S2F_D_5</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2995" />
+	  <textLabel>CLO_S2F_D_6</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Chianski_006_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3275" />
+	  <textLabel>CLO_S2F_D_7</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3455" />
+	  <textLabel>CLO_S2F_D_8</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3685" />
+	  <textLabel>CLO_S2F_D_9</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_010_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="3775" />
+	  <textLabel>CLO_S2F_D_10</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_011_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2515" />
+	  <textLabel>CLO_S2F_D_11</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2485" />
+	  <textLabel>CLO_S2F_D_12</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2345" />
+	  <textLabel>CLO_S2F_D_13</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2490" />
+	  <textLabel>CLO_S2F_D_14</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2315" />
+	  <textLabel>CLO_S2F_D_15</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2385" />
+	  <textLabel>CLO_S2F_D_16</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2630" />
+	  <textLabel>CLO_S2F_D_17</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_006_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="2910" />
+	  <textLabel>CLO_S2F_D_18</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Dense_007_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="915" />
+	  <textLabel>CLO_S2F_D_19</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="900" />
+	  <textLabel>CLO_S2F_D_20</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="885" />
+	  <textLabel>CLO_S2F_D_21</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="945" />
+	  <textLabel>CLO_S2F_D_22</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="930" />
+	  <textLabel>CLO_S2F_D_23</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_006_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="960" />
+	  <textLabel>CLO_S2F_D_24</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_007_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1005" />
+	  <textLabel>CLO_S2F_D_25</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_008_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="990" />
+	  <textLabel>CLO_S2F_D_26</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_009_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="975" />
+	  <textLabel>CLO_S2F_D_27</textLabel>
+	  <collection>mpLowrider2_overlays</collection>
+	  <preset>MP_Hntr_012_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- [START] hair decals -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider2_overlays</collection>
+		<preset>LR_M_Hair_004</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider2_overlays</collection>
+		<preset>LR_M_Hair_005</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider2_overlays</collection>
+		<preset>LR_M_Hair_006</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider2_overlays</collection>
+		<preset>LR_F_Hair_003</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider2_overlays</collection>
+		<preset>LR_F_Hair_004</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider2_overlays</collection>
+		<preset>LR_F_Hair_006</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<!-- [END] hair decals -->
+	
+	
+	<!-- BLANK FOR VALENTINES TEEs -->
+	<Item>
+      <id value="0"/>
+      <cost value="350"/>
+      <textLabel>CLO_S2M_D_28</textLabel>
+      <collection>mpLowrider2_overlays</collection>
+      <preset>Blank_Red_ValentinesTee</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash />
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="475"/>
+      <textLabel>CLO_S2M_D_29</textLabel>
+      <collection>mpLowrider2_overlays</collection>
+      <preset>Blank_Black_ValentinesTee</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash />
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="320"/>
+      <textLabel>CLO_S2M_D_30</textLabel>
+      <collection>mpLowrider2_overlays</collection>
+      <preset>Blank_White_ValentinesTee</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash />
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

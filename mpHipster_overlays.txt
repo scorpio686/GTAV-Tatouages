@@ -1,0 +1,2580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<Item>
+	  <id value="900"/>
+	  <cost value="6750"/>
+	  <textLabel>TAT_HP_000</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_000</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="901"/>
+	  <cost value="2000"/>
+	  <textLabel>TAT_HP_001</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_001</preset>
+	  <updateGroup>ARM_RIGHT_TRICEP</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="902"/>
+	  <cost value="2900"/>
+	  <textLabel>TAT_HP_002</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_002</preset>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="903"/>
+	  <cost value="2100"/>
+	  <textLabel>TAT_HP_003</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_003</preset>
+	  <updateGroup>ARM_LEFT_ELBOW</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="904"/>
+	  <cost value="2900"/>
+	  <textLabel>TAT_HP_004</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_004</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="905"/>
+	  <cost value="7450"/>
+	  <textLabel>TAT_HP_005</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_005</preset>
+	  <updateGroup>NECK_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>	
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="906"/>
+	  <cost value="4550"/>
+	  <textLabel>TAT_HP_006</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_006</preset>
+	  <updateGroup>SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="907"/>
+	  <cost value="6000"/>
+	  <textLabel>TAT_HP_007</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_007</preset>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="908"/>
+	  <cost value="4850"/>
+	  <textLabel>TAT_HP_008</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_008</preset>
+	  <updateGroup>ARM_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="909"/>
+	  <cost value="4000"/>
+	  <textLabel>TAT_HP_009</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_009</preset>
+	  <updateGroup>LEG_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="910"/>
+	  <cost value="3150"/>
+	  <textLabel>TAT_HP_010</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_010</preset>
+	  <updateGroup>HAND_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="911"/>
+	  <cost value="3000"/>
+	  <textLabel>TAT_HP_011</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_011</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="912"/>
+	  <cost value="6500"/>
+	  <textLabel>TAT_HP_012</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_012</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="913"/>
+	  <cost value="6950"/>
+	  <textLabel>TAT_HP_013</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_013</preset>
+	  <updateGroup>CHEST_MID</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="914"/>
+	  <cost value="4300"/>
+	  <textLabel>TAT_HP_014</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_014</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="915"/>
+	  <cost value="3400"/>
+	  <textLabel>TAT_HP_015</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_015</preset>
+	  <updateGroup>ARM_LEFT_BICEP</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="916"/>
+	  <cost value="3700"/>
+	  <textLabel>TAT_HP_016</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_016</preset>
+	  <updateGroup>ARM_LEFT_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="917"/>
+	  <cost value="2650"/>
+	  <textLabel>TAT_HP_017</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_017</preset>
+	  <updateGroup>ARM_RIGHT_ELBOW</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="918"/>
+	  <cost value="1800"/>
+	  <textLabel>TAT_HP_018</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_018</preset>
+	  <updateGroup>ARM_RIGHT_WRIST</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="919"/>
+	  <cost value="3400"/>
+	  <textLabel>TAT_HP_019</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_019</preset>
+	  <updateGroup>LEG_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="920"/>
+	  <cost value="7350"/>
+	  <textLabel>TAT_HP_020</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_020</preset>
+	  <updateGroup>ARM_RIGHT_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="921"/>
+	  <cost value="7850"/>
+	  <textLabel>TAT_HP_021</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_021</preset>
+	  <updateGroup>NECK_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="922"/>
+	  <cost value="2250"/>
+	  <textLabel>TAT_HP_022</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_022</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="923"/>
+	  <cost value="7000"/>
+	  <textLabel>TAT_HP_023</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_023</preset>
+	  <updateGroup>HAND_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="924"/>
+	  <cost value="2950"/>
+	  <textLabel>TAT_HP_024</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_024</preset>
+	  <updateGroup>BACK_4</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="925"/>
+	  <cost value="3500"/>
+	  <textLabel>TAT_HP_025</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_025</preset>
+	  <updateGroup>BACK_3</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="926"/>
+	  <cost value="2400"/>
+	  <textLabel>TAT_HP_026</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_026</preset>
+	  <updateGroup>ARM_LEFT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="927"/>
+	  <cost value="5750"/>
+	  <textLabel>TAT_HP_027</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_027</preset>
+	  <updateGroup>ARM_LEFT_WRIST</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="928"/>
+	  <cost value="4800"/>
+	  <textLabel>TAT_HP_028</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_028</preset>
+	  <updateGroup>ARM_LEFT_ELBOW</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="929"/>
+	  <cost value="1850"/>
+	  <textLabel>TAT_HP_029</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_029</preset>
+	  <updateGroup>STOMACH_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="930"/>
+	  <cost value="2250"/>
+	  <textLabel>TAT_HP_030</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_030</preset>
+	  <updateGroup>BACK_2</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="931"/>
+	  <cost value="4950"/>
+	  <textLabel>TAT_HP_031</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_031</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="932"/>
+	  <cost value="4350"/>
+	  <textLabel>TAT_HP_032</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_032</preset>
+	  <updateGroup>BACK_4</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="933"/>
+	  <cost value="6950"/>
+	  <textLabel>TAT_HP_033</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_033</preset>
+	  <updateGroup>CHEST_MID</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="934"/>
+	  <cost value="9500"/>
+	  <textLabel>TAT_HP_034</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_034</preset>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="935"/>
+	  <cost value="7500"/>
+	  <textLabel>TAT_HP_035</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_035</preset>
+	  <updateGroup>STOMACH_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="936"/>
+	  <cost value="5150"/>
+	  <textLabel>TAT_HP_036</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_036</preset>
+	  <updateGroup>ARM_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="937"/>
+	  <cost value="3750"/>
+	  <textLabel>TAT_HP_037</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_037</preset>
+	  <updateGroup>ARM_LEFT_2</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="938"/>
+	  <cost value="3500"/>
+	  <textLabel>TAT_HP_038</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_038</preset>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="939"/>
+	  <cost value="10000"/>
+	  <textLabel>TAT_HP_039</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_039</preset>
+	  <updateGroup>ARM_LEFT_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="940"/>
+	  <cost value="2950"/>
+	  <textLabel>TAT_HP_040</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_040</preset>
+	  <updateGroup>LEG_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="941"/>
+	  <cost value="2575"/>
+	  <textLabel>TAT_HP_041</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_041</preset>
+	  <updateGroup>BACK_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="942"/>
+	  <cost value="4300"/>
+	  <textLabel>TAT_HP_042</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_042</preset>
+	  <updateGroup>LEG_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="943"/>
+	  <cost value="5500"/>
+	  <textLabel>TAT_HP_043</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_043</preset>
+	  <updateGroup>ARM_LEFT_2</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="944"/>
+	  <cost value="5500"/>
+	  <textLabel>TAT_HP_044</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_044</preset>
+	  <updateGroup>ARM_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="945"/>
+	  <cost value="4000"/>
+	  <textLabel>TAT_HP_045</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_045</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="946"/>
+	  <cost value="3750"/>
+	  <textLabel>TAT_HP_046</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_046</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="947"/>
+	  <cost value="1900"/>
+	  <textLabel>TAT_HP_047</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_047</preset>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="948"/>
+	  <cost value="7850"/>
+	  <textLabel>TAT_HP_048</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_M_Tat_048</preset>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+
+	<Item>
+	  <id value="949"/>
+	  <cost value="6750"/>
+	  <textLabel>TAT_HP_000</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_000</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="950"/>
+	  <cost value="2000"/>
+	  <textLabel>TAT_HP_001</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_001</preset>
+	  <updateGroup>ARM_RIGHT_TRICEP</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="951"/>
+	  <cost value="2900"/>
+	  <textLabel>TAT_HP_002</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_002</preset>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="952"/>
+	  <cost value="2100"/>
+	  <textLabel>TAT_HP_003</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_003</preset>
+	  <updateGroup>ARM_LEFT_ELBOW</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="953"/>
+	  <cost value="2900"/>
+	  <textLabel>TAT_HP_004</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_004</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="954"/>
+	  <cost value="7450"/>
+	  <textLabel>TAT_HP_005</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_005</preset>
+	  <updateGroup>NECK_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="955"/>
+	  <cost value="4550"/>
+	  <textLabel>TAT_HP_006</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_006</preset>
+	  <updateGroup>SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="956"/>
+	  <cost value="6000"/>
+	  <textLabel>TAT_HP_007</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_007</preset>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="957"/>
+	  <cost value="4850"/>
+	  <textLabel>TAT_HP_008</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_008</preset>
+	  <updateGroup>ARM_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="958"/>
+	  <cost value="4000"/>
+	  <textLabel>TAT_HP_009</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_009</preset>
+	  <updateGroup>LEG_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="959"/>
+	  <cost value="3150"/>
+	  <textLabel>TAT_HP_010</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_010</preset>
+	  <updateGroup>HAND_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="960"/>
+	  <cost value="3000"/>
+	  <textLabel>TAT_HP_011</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_011</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="961"/>
+	  <cost value="6500"/>
+	  <textLabel>TAT_HP_012</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_012</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="962"/>
+	  <cost value="6950"/>
+	  <textLabel>TAT_HP_013</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_013</preset>
+	  <updateGroup>CHEST_MID</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="963"/>
+	  <cost value="4300"/>
+	  <textLabel>TAT_HP_014</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_014</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="964"/>
+	  <cost value="3400"/>
+	  <textLabel>TAT_HP_015</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_015</preset>
+	  <updateGroup>ARM_LEFT_BICEP</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="965"/>
+	  <cost value="3700"/>
+	  <textLabel>TAT_HP_016</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_016</preset>
+	  <updateGroup>ARM_LEFT_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="966"/>
+	  <cost value="2650"/>
+	  <textLabel>TAT_HP_017</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_017</preset>
+	  <updateGroup>ARM_RIGHT_ELBOW</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="967"/>
+	  <cost value="1800"/>
+	  <textLabel>TAT_HP_018</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_018</preset>
+	  <updateGroup>ARM_RIGHT_WRIST</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="968"/>
+	  <cost value="3400"/>
+	  <textLabel>TAT_HP_019</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_019</preset>
+	  <updateGroup>LEG_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="969"/>
+	  <cost value="7350"/>
+	  <textLabel>TAT_HP_020</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_020</preset>
+	  <updateGroup>ARM_RIGHT_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="970"/>
+	  <cost value="7850"/>
+	  <textLabel>TAT_HP_021</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_021</preset>
+	  <updateGroup>NECK_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+	  <id value="971"/>
+	  <cost value="2250"/>
+	  <textLabel>TAT_HP_022</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_022</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="972"/>
+	  <cost value="7000"/>
+	  <textLabel>TAT_HP_023</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_023</preset>
+	  <updateGroup>HAND_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="973"/>
+	  <cost value="2950"/>
+	  <textLabel>TAT_HP_024</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_024</preset>
+	  <updateGroup>BACK_4</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="974"/>
+	  <cost value="3500"/>
+	  <textLabel>TAT_HP_025</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_025</preset>
+	  <updateGroup>BACK_3</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="975"/>
+	  <cost value="2400"/>
+	  <textLabel>TAT_HP_026</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_026</preset>
+	  <updateGroup>ARM_LEFT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="976"/>
+	  <cost value="5750"/>
+	  <textLabel>TAT_HP_027</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_027</preset>
+	  <updateGroup>ARM_LEFT_WRIST</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="977"/>
+	  <cost value="4800"/>
+	  <textLabel>TAT_HP_028</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_028</preset>
+	  <updateGroup>ARM_LEFT_ELBOW</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="978"/>
+	  <cost value="1850"/>
+	  <textLabel>TAT_HP_029</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_029</preset>
+	  <updateGroup>STOMACH_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="979"/>
+	  <cost value="2250"/>
+	  <textLabel>TAT_HP_030</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_030</preset>
+	  <updateGroup>BACK_2</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="980"/>
+	  <cost value="4950"/>
+	  <textLabel>TAT_HP_031</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_031</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="981"/>
+	  <cost value="4350"/>
+	  <textLabel>TAT_HP_032</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_032</preset>
+	  <updateGroup>BACK_4</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="982"/>
+	  <cost value="6950"/>
+	  <textLabel>TAT_HP_033</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_033</preset>
+	  <updateGroup>CHEST_MID</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="983"/>
+	  <cost value="9500"/>
+	  <textLabel>TAT_HP_034</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_034</preset>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="984"/>
+	  <cost value="7500"/>
+	  <textLabel>TAT_HP_035</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_035</preset>
+	  <updateGroup>STOMACH_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="985"/>
+	  <cost value="5150"/>
+	  <textLabel>TAT_HP_036</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_036</preset>
+	  <updateGroup>ARM_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="986"/>
+	  <cost value="3750"/>
+	  <textLabel>TAT_HP_037</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_037</preset>
+	  <updateGroup>ARM_LEFT_2</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="987"/>
+	  <cost value="3500"/>
+	  <textLabel>TAT_HP_038</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_038</preset>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="988"/>
+	  <cost value="10000"/>
+	  <textLabel>TAT_HP_039</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_039</preset>
+	  <updateGroup>ARM_LEFT_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="989"/>
+	  <cost value="2950"/>
+	  <textLabel>TAT_HP_040</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_040</preset>
+	  <updateGroup>LEG_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="990"/>
+	  <cost value="2575"/>
+	  <textLabel>TAT_HP_041</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_041</preset>
+	  <updateGroup>BACK_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="991"/>
+	  <cost value="4300"/>
+	  <textLabel>TAT_HP_042</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_042</preset>
+	  <updateGroup>LEG_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	</Item>
+	<Item>
+	  <id value="992"/>
+	  <cost value="5500"/>
+	  <textLabel>TAT_HP_043</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_043</preset>
+	  <updateGroup>ARM_LEFT_2</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="993"/>
+	  <cost value="5500"/>
+	  <textLabel>TAT_HP_044</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_044</preset>
+	  <updateGroup>ARM_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="994"/>
+	  <cost value="4000"/>
+	  <textLabel>TAT_HP_045</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_045</preset>
+	  <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	</Item>
+	<Item>
+	  <id value="995"/>
+	  <cost value="3750"/>
+	  <textLabel>TAT_HP_046</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_046</preset>
+	  <updateGroup>BACK_1</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="996"/>
+	  <cost value="1900"/>
+	  <textLabel>TAT_HP_047</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_047</preset>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+	  <id value="997"/>
+	  <cost value="7850"/>
+	  <textLabel>TAT_HP_048</textLabel>
+	  <collection>mpHipster_overlays</collection>
+	  <preset>FM_Hip_F_Tat_048</preset>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <lockHash>CU_HIPSTER_TATTOOS</lockHash>
+	  <zone>PDZ_LEFT_ARM</zone>
+	</Item>
+	
+	<!-- FEMALE HAIR DECALS -->
+	<Item>
+		<id value="9100"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_017_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9101"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_017_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9102"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_017_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9103"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_017_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9104"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_017_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9105"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_018_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9106"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_018_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9107"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_018_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9108"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_018_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9109"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_018_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9110"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_019_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9111"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_019_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9112"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_019_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9113"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_019_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9114"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_019_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9115"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_020_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9116"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_020_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9117"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_020_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9118"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_020_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9119"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_F_Hair_020_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_BUSINESS_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	
+	<Item>
+		<id value="9120"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Hair_000_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9121"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Hair_000_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9122"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Hair_000_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9123"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Hair_000_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9124"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Hair_000_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	
+	
+	<!-- MALE HAIR DECALS -->
+	<Item>
+		<id value="9130"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_000_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9131"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_000_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9132"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_000_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9133"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_000_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9134"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_000_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9135"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_001_a</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9136"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_001_b</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9137"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_001_c</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9138"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_001_d</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="9139"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Hair_001_e</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_HEAD</zone>
+	</Item>
+		
+	<!-- MALE SHIRT DECALS -->
+	<Item>
+		<id value="9024"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_0</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9025"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_1</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9026"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_2</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9027"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_3</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_003</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9028"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_4</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9029"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_5</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9030"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_6</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_006</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9031"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_7</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9032"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_8</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9033"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_9</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9034"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_10</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9035"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_11</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9036"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_12</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9037"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_13</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9038"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_14</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_014</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9039"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_15</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_015</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9040"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_16</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_016</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9041"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_17</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_017</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9042"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_18</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_018</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9043"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_19</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_019</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9044"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_20</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_020</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9045"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_21</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_021</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9046"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_D_22</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Tshirt_022</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE SHIRT DECALS -->
+	<Item>
+		<id value="9124"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_0</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9125"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_1</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9126"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_2</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9127"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_3</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_003</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9128"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_4</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9129"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_5</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9130"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_6</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_006</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9131"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_7</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9132"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_8</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9133"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_9</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9134"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_10</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9135"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_11</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9136"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_12</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9137"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_13</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9138"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_14</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_014</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9139"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_15</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_015</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9140"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_16</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_016</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9141"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_17</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_017</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9142"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_18</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_018</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9143"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_19</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_019</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9144"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_20</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_020</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9145"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_21</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_021</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9146"/>
+		<cost value="9999"/>
+		<textLabel>CLO_HP_F_D_22</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Tshirt_022</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>		
+	
+	<!-- MALE RETRO SHIRT DECALS -->
+	<Item>
+		<id value="9047"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_23</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9048"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_24</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9049"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_25</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9050"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_26</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_003</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9051"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_27</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9052"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_28</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9053"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_29</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_006</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9054"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_30</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9055"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_31</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9056"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_32</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9057"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_33</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9058"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_34</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9059"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_35</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9060"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_D_36</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_M_Retro_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE RETRO SHIRT DECALS -->
+	<Item>
+		<id value="9147"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_23</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9148"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_24</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9149"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_25</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9150"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_26</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_003</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9151"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_27</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9152"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_28</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9153"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_29</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_006</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9154"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_30</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9155"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_31</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9156"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_32</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9157"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_33</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9158"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_34</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9159"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_35</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9160"/>
+		<cost value="0"/>
+		<textLabel>CLO_HP_F_D_36</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Hip_F_Retro_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- R* TSHIRT DECALS -->
+	<Item>
+		<id value="9161"/>
+		<cost value="0"/>
+		<textLabel>RSTAR_DEV_0</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Rstar_M_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9162"/>
+		<cost value="0"/>
+		<textLabel>RSTAR_DEV_1</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Rstar_M_Tshirt_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9163"/>
+		<cost value="0"/>
+		<textLabel>RSTAR_DEV_2</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Rstar_M_Tshirt_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="9164"/>
+		<cost value="0"/>
+		<textLabel>RSTAR_DEV_0</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Rstar_F_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9165"/>
+		<cost value="0"/>
+		<textLabel>RSTAR_DEV_1</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Rstar_F_Tshirt_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="9166"/>
+		<cost value="0"/>
+		<textLabel>RSTAR_DEV_2</textLabel>
+		<collection>mpHipster_overlays</collection>
+		<preset>FM_Rstar_F_Tshirt_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

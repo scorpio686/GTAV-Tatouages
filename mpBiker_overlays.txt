@@ -1,0 +1,3427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+
+	<!-- Male Biker tattoos -->
+	<Item>
+	  <id value="2900"/>
+	  <cost value="6720"/>
+	  <textLabel>TAT_BI_000</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_000_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2901"/>
+	  <cost value="10800"/>
+	  <textLabel>TAT_BI_001</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_001_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female Biker tattoos -->
+	<Item>
+	  <id value="2950"/>
+	  <cost value="6720"/>
+	  <textLabel>TAT_BI_000</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_000_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2951"/>
+	  <cost value="10800"/>
+	  <textLabel>TAT_BI_001</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_001_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- FEMALE HAIR DECALS -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_000_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_001_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_002_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<!-- MALE HAIR DECALS -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_000_M</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_001_M</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+
+	<!-- More Male Biker tattoos -->
+	<Item>
+	  <id value="2902"/>
+	  <cost value="16820"/>
+	  <textLabel>TAT_BI_002</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_002_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_FRONT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2903"/>
+	  <cost value="10850"/>
+	  <textLabel>TAT_BI_003</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_003_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2904"/>
+	  <cost value="17950"/>
+	  <textLabel>TAT_BI_004</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_004_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2905"/>
+	  <cost value="9230"/>
+	  <textLabel>TAT_BI_005</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_005_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2906"/>
+	  <cost value="10400"/>
+	  <textLabel>TAT_BI_006</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_006_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2907"/>
+	  <cost value="5100"/>
+	  <textLabel>TAT_BI_007</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_007_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2908"/>
+	  <cost value="8785"/>
+	  <textLabel>TAT_BI_008</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_008_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2909"/>
+	  <cost value="6350"/>
+	  <textLabel>TAT_BI_009</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_009_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>FACE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2910"/>
+	  <cost value="11350"/>
+	  <textLabel>TAT_BI_010</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_010_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2911"/>
+	  <cost value="12350"/>
+	  <textLabel>TAT_BI_011</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_011_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2912"/>
+	  <cost value="4985"/>
+	  <textLabel>TAT_BI_012</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_012_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2913"/>
+	  <cost value="11140"/>
+	  <textLabel>TAT_BI_013</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_013_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2914"/>
+	  <cost value="8300"/>
+	  <textLabel>TAT_BI_014</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_014_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2915"/>
+	  <cost value="8975"/>
+	  <textLabel>TAT_BI_015</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_015_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2916"/>
+	  <cost value="9000"/>
+	  <textLabel>TAT_BI_016</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_016_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2917"/>
+	  <cost value="15650"/>
+	  <textLabel>TAT_BI_017</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_017_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2918"/>
+	  <cost value="7650"/>
+	  <textLabel>TAT_BI_018</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_018_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2919"/>
+	  <cost value="9900"/>
+	  <textLabel>TAT_BI_019</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_019_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2920"/>
+	  <cost value="9745"/>
+	  <textLabel>TAT_BI_020</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_020_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2921"/>
+	  <cost value="13700"/>
+	  <textLabel>TAT_BI_021</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_021_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2922"/>
+	  <cost value="9385"/>
+	  <textLabel>TAT_BI_022</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_022_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2923"/>
+	  <cost value="10000"/>
+	  <textLabel>TAT_BI_023</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_023_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2924"/>
+	  <cost value="15320"/>
+	  <textLabel>TAT_BI_024</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_024_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- More Female Biker tattoos -->
+	<Item>
+	  <id value="2952"/>
+	  <cost value="16820"/>
+	  <textLabel>TAT_BI_002</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_002_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_FRONT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2953"/>
+	  <cost value="10850"/>
+	  <textLabel>TAT_BI_003</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_003_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2954"/>
+	  <cost value="17950"/>
+	  <textLabel>TAT_BI_004</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_004_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2955"/>
+	  <cost value="9230"/>
+	  <textLabel>TAT_BI_005</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_005_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2956"/>
+	  <cost value="10400"/>
+	  <textLabel>TAT_BI_006</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_006_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2957"/>
+	  <cost value="5100"/>
+	  <textLabel>TAT_BI_007</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_007_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2958"/>
+	  <cost value="8785"/>
+	  <textLabel>TAT_BI_008</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_008_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2959"/>
+	  <cost value="6350"/>
+	  <textLabel>TAT_BI_009</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_009_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>FACE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2960"/>
+	  <cost value="11350"/>
+	  <textLabel>TAT_BI_010</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_010_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2961"/>
+	  <cost value="12350"/>
+	  <textLabel>TAT_BI_011</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_011_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2962"/>
+	  <cost value="4985"/>
+	  <textLabel>TAT_BI_012</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_012_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2963"/>
+	  <cost value="11140"/>
+	  <textLabel>TAT_BI_013</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_013_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2964"/>
+	  <cost value="8300"/>
+	  <textLabel>TAT_BI_014</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_014_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2965"/>
+	  <cost value="8975"/>
+	  <textLabel>TAT_BI_015</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_015_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2966"/>
+	  <cost value="9000"/>
+	  <textLabel>TAT_BI_016</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_016_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2967"/>
+	  <cost value="15650"/>
+	  <textLabel>TAT_BI_017</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_017_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2968"/>
+	  <cost value="7650"/>
+	  <textLabel>TAT_BI_018</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_018_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2969"/>
+	  <cost value="9900"/>
+	  <textLabel>TAT_BI_019</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_019_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2970"/>
+	  <cost value="9745"/>
+	  <textLabel>TAT_BI_020</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_020_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2971"/>
+	  <cost value="13700"/>
+	  <textLabel>TAT_BI_021</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_021_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2972"/>
+	  <cost value="9385"/>
+	  <textLabel>TAT_BI_022</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_022_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2973"/>
+	  <cost value="10000"/>
+	  <textLabel>TAT_BI_023</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_023_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2974"/>
+	  <cost value="15320"/>
+	  <textLabel>TAT_BI_024</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_024_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Male Clothing overlays -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_0</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_1</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_2</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_3</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_4</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_5</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_6</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_006_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_7</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_007_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_8</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_008_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_9</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_009_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_10</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_010_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_11</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_011_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_12</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_012_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_13</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_013_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_14</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_014_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_15</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_015_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_16</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_016_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_17</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_017_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_18</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_018_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_19</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_019_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_20</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_020_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_21</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_021_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_22</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_022_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_23</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_023_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_24</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_024_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_25</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_025_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_26</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_026_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_27</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_027_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_28</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_028_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_29</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_029_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_30</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_030_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_31</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_031_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_32</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_032_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_33</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_033_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_34</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_034_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_35</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_035_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_36</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_036_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_37</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_037_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_38</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_038_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_39</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_039_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_40</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_040_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_41</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_041_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_42</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_042_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_43</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_043_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_44</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_044_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_45</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_045_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_46</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_046_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_47</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_047_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_48</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_048_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_49</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_049_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_50</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_050_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_51</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_051_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_52</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_052_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_53</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_053_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_54</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_054_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_55</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_055_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_56</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Award_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_57</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Award_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	</Item>
+	
+	<!-- Female Clothing overlays -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_0</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_1</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_2</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_3</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_4</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_5</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_6</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_006_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_7</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_007_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_8</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_008_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_9</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_009_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_10</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_010_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_11</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_011_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_12</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_012_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_13</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_013_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_14</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_014_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_15</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_015_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_16</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_016_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_17</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_017_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_18</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_018_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_19</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_019_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_20</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_020_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_21</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_021_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_22</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_022_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_23</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_023_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_24</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_024_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_25</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_025_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_26</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_026_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_27</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_027_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_28</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_028_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_29</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_029_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_30</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_030_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_31</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_031_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_32</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_032_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_33</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_033_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_34</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_034_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_35</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_035_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_36</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_036_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_37</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_037_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_38</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_038_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_39</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_039_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_40</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_040_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_41</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_041_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_42</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_042_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_43</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_043_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_44</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_044_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_45</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_045_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_46</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_046_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_47</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_047_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_48</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_048_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_49</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_049_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_50</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_050_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_51</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_051_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_52</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_052_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_53</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_053_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_54</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_054_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_55</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Tee_055_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_56</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Award_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_57</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Award_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	</Item>
+	
+	
+	<!-- MORE FEMALE HAIR DECALS -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_003_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>multiplayer_overlays</collection>
+		<preset>NG_F_Hair_014</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<!-- MORE MALE HAIR DECALS -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_002_M</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_003_M</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	
+	<!-- Rank overlays -->
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_000_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_001_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_002_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_003_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_004_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_005_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_006_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_007_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_008_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_009_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_010_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_011_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_012_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_013_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_014_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_015_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_016_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_017_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_000_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_001_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_002_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_003_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_004_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_005_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_006_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_007_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_008_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_009_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_010_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_011_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_012_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_013_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_014_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_015_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_016_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0"/>
+	  <textLabel />
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_Biker_Rank_017_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>rank</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Male: Blank Hoody Graphics -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_67</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Hoody_M_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIM_DECL_68</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Hoody_M_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female: Blank Hoody Graphics -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_67</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Hoody_F_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_BIF_DECL_68</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Hoody_F_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+
+	<!-- Even More Male Biker tattoos -->
+	<Item>
+	  <id value="2925"/>
+	  <cost value="12950"/>
+	  <textLabel>TAT_BI_025</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_025_M</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2926"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_BI_026</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_026_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2927"/>
+	  <cost value="6960"/>
+	  <textLabel>TAT_BI_027</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_027_M</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2928"/>
+	  <cost value="14520"/>
+	  <textLabel>TAT_BI_028</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_028_M</preset>
+	  <zone>PDZ_RIGHT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2929"/>
+	  <cost value="9630"/>
+	  <textLabel>TAT_BI_029</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_029_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2930"/>
+	  <cost value="9810"/>
+	  <textLabel>TAT_BI_030</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_030_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2931"/>
+	  <cost value="8600"/>
+	  <textLabel>TAT_BI_031</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_031_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2932"/>
+	  <cost value="7655"/>
+	  <textLabel>TAT_BI_032</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_032_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2933"/>
+	  <cost value="4385"/>
+	  <textLabel>TAT_BI_033</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_033_M</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2934"/>
+	  <cost value="9975"/>
+	  <textLabel>TAT_BI_034</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_034_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2935"/>
+	  <cost value="5780"/>
+	  <textLabel>TAT_BI_035</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_035_M</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2936"/>
+	  <cost value="9300"/>
+	  <textLabel>TAT_BI_036</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_036_M</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2937"/>
+	  <cost value="12495"/>
+	  <textLabel>TAT_BI_037</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_037_M</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2938"/>
+	  <cost value="3900"/>
+	  <textLabel>TAT_BI_038</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_038_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2939"/>
+	  <cost value="10950"/>
+	  <textLabel>TAT_BI_039</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_039_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2940"/>
+	  <cost value="13620"/>
+	  <textLabel>TAT_BI_040</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_040_M</preset>
+	  <zone>PDZ_RIGHT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2941"/>
+	  <cost value="8320"/>
+	  <textLabel>TAT_BI_041</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_041_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2942"/>
+	  <cost value="7865"/>
+	  <textLabel>TAT_BI_042</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_042_M</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2943"/>
+	  <cost value="6850"/>
+	  <textLabel>TAT_BI_043</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_043_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2944"/>
+	  <cost value="11900"/>
+	  <textLabel>TAT_BI_044</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_044_M</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2945"/>
+	  <cost value="6320"/>
+	  <textLabel>TAT_BI_045</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_045_M</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2946"/>
+	  <cost value="4985"/>
+	  <textLabel>TAT_BI_046</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_046_M</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2947"/>
+	  <cost value="13500"/>
+	  <textLabel>TAT_BI_047</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_047_M</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2948"/>
+	  <cost value="8930"/>
+	  <textLabel>TAT_BI_048</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_048_M</preset>
+	  <zone>PDZ_RIGHT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2949"/>
+	  <cost value="8790"/>
+	  <textLabel>TAT_BI_049</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_049_M</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2950"/>
+	  <cost value="8720"/>
+	  <textLabel>TAT_BI_050</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_050_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2951"/>
+	  <cost value="4125"/>
+	  <textLabel>TAT_BI_051</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_051_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>NECK_RIGHT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2952"/>
+	  <cost value="9135"/>
+	  <textLabel>TAT_BI_052</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_052_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2953"/>
+	  <cost value="8400"/>
+	  <textLabel>TAT_BI_053</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_053_M</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2954"/>
+	  <cost value="10450"/>
+	  <textLabel>TAT_BI_054</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_054_M</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2955"/>
+	  <cost value="10995"/>
+	  <textLabel>TAT_BI_055</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_055_M</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2956"/>
+	  <cost value="14960"/>
+	  <textLabel>TAT_BI_056</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_056_M</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2957"/>
+	  <cost value="13865"/>
+	  <textLabel>TAT_BI_057</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_057_M</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2958"/>
+	  <cost value="7985"/>
+	  <textLabel>TAT_BI_058</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_058_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Even More Female Biker tattoos -->
+	<Item>
+	  <id value="2975"/>
+	  <cost value="12950"/>
+	  <textLabel>TAT_BI_025</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_025_F</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2976"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_BI_026</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_026_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2977"/>
+	  <cost value="6960"/>
+	  <textLabel>TAT_BI_027</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_027_F</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2978"/>
+	  <cost value="14520"/>
+	  <textLabel>TAT_BI_028</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_028_F</preset>
+	  <zone>PDZ_RIGHT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2979"/>
+	  <cost value="9630"/>
+	  <textLabel>TAT_BI_029</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_029_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2980"/>
+	  <cost value="9810"/>
+	  <textLabel>TAT_BI_030</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_030_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2981"/>
+	  <cost value="8600"/>
+	  <textLabel>TAT_BI_031</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_031_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2982"/>
+	  <cost value="7655"/>
+	  <textLabel>TAT_BI_032</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_032_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2983"/>
+	  <cost value="4385"/>
+	  <textLabel>TAT_BI_033</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_033_F</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2984"/>
+	  <cost value="9975"/>
+	  <textLabel>TAT_BI_034</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_034_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2985"/>
+	  <cost value="5780"/>
+	  <textLabel>TAT_BI_035</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_035_F</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2986"/>
+	  <cost value="9300"/>
+	  <textLabel>TAT_BI_036</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_036_F</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2987"/>
+	  <cost value="12495"/>
+	  <textLabel>TAT_BI_037</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_037_F</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2988"/>
+	  <cost value="3900"/>
+	  <textLabel>TAT_BI_038</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_038_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2989"/>
+	  <cost value="10950"/>
+	  <textLabel>TAT_BI_039</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_039_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2990"/>
+	  <cost value="13620"/>
+	  <textLabel>TAT_BI_040</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_040_F</preset>
+	  <zone>PDZ_RIGHT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2991"/>
+	  <cost value="8320"/>
+	  <textLabel>TAT_BI_041</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_041_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2992"/>
+	  <cost value="7865"/>
+	  <textLabel>TAT_BI_042</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_042_F</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2993"/>
+	  <cost value="6850"/>
+	  <textLabel>TAT_BI_043</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_043_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2994"/>
+	  <cost value="11900"/>
+	  <textLabel>TAT_BI_044</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_044_F</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2995"/>
+	  <cost value="6320"/>
+	  <textLabel>TAT_BI_045</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_045_F</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2996"/>
+	  <cost value="4985"/>
+	  <textLabel>TAT_BI_046</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_046_F</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2997"/>
+	  <cost value="13500"/>
+	  <textLabel>TAT_BI_047</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_047_F</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2998"/>
+	  <cost value="8930"/>
+	  <textLabel>TAT_BI_048</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_048_F</preset>
+	  <zone>PDZ_RIGHT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2999"/>
+	  <cost value="8790"/>
+	  <textLabel>TAT_BI_049</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_049_F</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3000"/>
+	  <cost value="8720"/>
+	  <textLabel>TAT_BI_050</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_050_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3001"/>
+	  <cost value="4125"/>
+	  <textLabel>TAT_BI_051</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_051_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>NECK_RIGHT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3002"/>
+	  <cost value="9135"/>
+	  <textLabel>TAT_BI_052</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_052_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3003"/>
+	  <cost value="8400"/>
+	  <textLabel>TAT_BI_053</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_053_F</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3004"/>
+	  <cost value="10450"/>
+	  <textLabel>TAT_BI_054</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_054_F</preset>
+	  <zone>PDZ_RIGHT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3005"/>
+	  <cost value="10995"/>
+	  <textLabel>TAT_BI_055</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_055_F</preset>
+	  <zone>PDZ_LEFT ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3006"/>
+	  <cost value="14960"/>
+	  <textLabel>TAT_BI_056</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_056_F</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3007"/>
+	  <cost value="13865"/>
+	  <textLabel>TAT_BI_057</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_057_F</preset>
+	  <zone>PDZ_LEFT LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="3008"/>
+	  <cost value="7985"/>
+	  <textLabel>TAT_BI_058</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_058_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- MORE HAIR DECALS -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_004_M</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_004_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+
+	<!-- Yet More Male Biker tattoos -->
+	<Item>
+	  <id value="2959"/>
+	  <cost value="6395"/>
+	  <textLabel>TAT_BI_059</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_059_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2960"/>
+	  <cost value="7105"/>
+	  <textLabel>TAT_BI_060</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_060_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Yet More Female Biker tattoos -->
+	<Item>
+	  <id value="7986"/>
+	  <cost value="6395"/>
+	  <textLabel>TAT_BI_059</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_059_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="7987"/>
+	  <cost value="7105"/>
+	  <textLabel>TAT_BI_060</textLabel>
+	  <collection>mpBiker_overlays</collection>
+	  <preset>MP_MP_Biker_Tat_060_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- YET MORE HAIR DECALS -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_005_M</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_005_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpBiker_overlays</collection>
+		<preset>MP_Biker_Hair_006_F</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

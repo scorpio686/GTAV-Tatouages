@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	
+	<!-- MALE SHIRT DECALS -->
+	<Item>
+		<id value="10000"/>
+		<cost value="950"/>
+		<textLabel>CLO_INDM_D_1</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10001"/>
+		<cost value="980"/>
+		<textLabel>CLO_INDM_D_2</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10002"/>
+		<cost value="1010"/>
+		<textLabel>CLO_INDM_D_3</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10003"/>
+		<cost value="1025"/>
+		<textLabel>CLO_INDM_D_4</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_003</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10004"/>
+		<cost value="1250"/>
+		<textLabel>CLO_INDM_D_5</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10005"/>
+		<cost value="1235"/>
+		<textLabel>CLO_INDM_D_6</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FM_Ind_M_Tshirt_006 NOT USED -->
+	
+	<Item>
+		<id value="10007"/>
+		<cost value="1205"/>
+		<textLabel>CLO_INDM_D_7</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10008"/>
+		<cost value="1115"/>
+		<textLabel>CLO_INDM_D_8</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10009"/>
+		<cost value="1130"/>
+		<textLabel>CLO_INDM_D_9</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10010"/>
+		<cost value="1145"/>
+		<textLabel>CLO_INDM_D_10</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10011"/>
+		<cost value="1175"/>
+		<textLabel>CLO_INDM_D_11</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10012"/>
+		<cost value="1265"/>
+		<textLabel>CLO_INDM_D_12</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10013"/>
+		<cost value="1280"/>
+		<textLabel>CLO_INDM_D_13</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10014"/>
+		<cost value="1100"/>
+		<textLabel>CLO_INDM_D_14</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_014</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10015"/>
+		<cost value="1040"/>
+		<textLabel>CLO_INDM_D_15</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_015</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FM_Ind_M_Tshirt_016 NOT USED -->
+	
+	<Item>
+		<id value="10016"/>
+		<cost value="1055"/>
+		<textLabel>CLO_INDM_D_16</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_017</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FM_Ind_M_Tshirt_018 NOT USED -->
+	
+	<Item>
+		<id value="10017"/>
+		<cost value="1220"/>
+		<textLabel>CLO_INDM_D_18</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_019</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10019"/>
+		<cost value="1460"/>
+		<textLabel>CLO_INDM_D_19</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_020</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10020"/>
+		<cost value="1595"/>
+		<textLabel>CLO_INDM_D_20</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_021</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10021"/>
+		<cost value="1585"/>
+		<textLabel>CLO_INDM_D_21</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_022</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10022"/>
+		<cost value="995"/>
+		<textLabel>CLO_INDM_D_22</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_023</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10023"/>
+		<cost value="965"/>
+		<textLabel>CLO_INDM_D_23</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_024</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10024"/>
+		<cost value="935"/>
+		<textLabel>CLO_INDM_D_24</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_025</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10025"/>
+		<cost value="1670"/>
+		<textLabel>CLO_INDM_D_25</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Tshirt_026</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10026"/>
+		<cost value="0"/>
+		<textLabel>CLO_INDM_D_26</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_M_Award_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	
+	<!-- FEMALE SHIRT DECALS -->
+	<Item>
+		<id value="10100"/>
+		<cost value="950"/>
+		<textLabel>CLO_INDF_D_1</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10101"/>
+		<cost value="980"/>
+		<textLabel>CLO_INDF_D_2</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_001</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10102"/>
+		<cost value="1010"/>
+		<textLabel>CLO_INDF_D_3</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_002</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10103"/>
+		<cost value="1025"/>
+		<textLabel>CLO_INDF_D_4</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_003</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10104"/>
+		<cost value="1250"/>
+		<textLabel>CLO_INDF_D_5</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10105"/>
+		<cost value="1235"/>
+		<textLabel>CLO_INDF_D_6</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FM_Ind_F_Tshirt_006 NOT USED -->
+	
+	<Item>
+		<id value="10107"/>
+		<cost value="1205"/>
+		<textLabel>CLO_INDF_D_7</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10108"/>
+		<cost value="1115"/>
+		<textLabel>CLO_INDF_D_8</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10109"/>
+		<cost value="1130"/>
+		<textLabel>CLO_INDF_D_9</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10110"/>
+		<cost value="1145"/>
+		<textLabel>CLO_INDF_D_10</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10111"/>
+		<cost value="1175"/>
+		<textLabel>CLO_INDF_D_11</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10112"/>
+		<cost value="1265"/>
+		<textLabel>CLO_INDF_D_12</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10113"/>
+		<cost value="1280"/>
+		<textLabel>CLO_INDF_D_13</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10114"/>
+		<cost value="1100"/>
+		<textLabel>CLO_INDF_D_14</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_014</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10115"/>
+		<cost value="1040"/>
+		<textLabel>CLO_INDF_D_15</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_015</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FM_Ind_F_Tshirt_016 NOT USED -->
+	
+	<Item>
+		<id value="10116"/>
+		<cost value="1055"/>
+		<textLabel>CLO_INDF_D_16</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_017</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FM_Ind_F_Tshirt_018 NOT USED -->
+	
+	<Item>
+		<id value="10118"/>
+		<cost value="1220"/>
+		<textLabel>CLO_INDF_D_18</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_019</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10119"/>
+		<cost value="1460"/>
+		<textLabel>CLO_INDF_D_19</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_020</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10120"/>
+		<cost value="1595"/>
+		<textLabel>CLO_INDF_D_20</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_021</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10121"/>
+		<cost value="1585"/>
+		<textLabel>CLO_INDF_D_21</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_022</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10122"/>
+		<cost value="995"/>
+		<textLabel>CLO_INDF_D_22</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_023</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10123"/>
+		<cost value="965"/>
+		<textLabel>CLO_INDF_D_23</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_024</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10124"/>
+		<cost value="935"/>
+		<textLabel>CLO_INDF_D_24</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_025</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10125"/>
+		<cost value="1670"/>
+		<textLabel>CLO_INDF_D_25</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Tshirt_026</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10126"/>
+		<cost value="0"/>
+		<textLabel>CLO_INDF_D_26</textLabel>
+		<collection>mpIndependance_overlays</collection>
+		<preset>FM_Ind_F_Award_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_INDI_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>	
+  </TattooShopItems>
+</TattooShopItemArray>

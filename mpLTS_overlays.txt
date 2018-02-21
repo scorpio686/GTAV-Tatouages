@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	
+	<!-- MALE SHIRT DECALS -->
+	<Item>
+		<id value="13000"/>
+		<cost value="0"/>
+		<textLabel>CLO_LTSM_D_1</textLabel>
+		<collection>mpLTS_overlays</collection>
+		<preset>FM_LTS_M_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_LTS_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE SHIRT DECALS -->
+	<Item>
+		<id value="13001"/>
+		<cost value="0"/>
+		<textLabel>CLO_LTSF_D_1</textLabel>
+		<collection>mpLTS_overlays</collection>
+		<preset>FM_LTS_F_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_LTS_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

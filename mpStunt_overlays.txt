@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<!-- Male stunt tattoos -->
+	<Item>
+	  <id value="2800"/>
+	  <cost value="4850"/>
+	  <textLabel>TAT_ST_000</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_000_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>NECK_RIGHT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2801"/>
+	  <cost value="11600"/>
+	  <textLabel>TAT_ST_001</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_001_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2802"/>
+	  <cost value="8850"/>
+	  <textLabel>TAT_ST_002</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_002_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2803"/>
+	  <cost value="4300"/>
+	  <textLabel>TAT_ST_003</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_003_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2804"/>
+	  <cost value="6350"/>
+	  <textLabel>TAT_ST_004</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_004_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>FACE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2805"/>
+	  <cost value="8850"/>
+	  <textLabel>TAT_ST_005</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_005_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2806"/>
+	  <cost value="5900"/>
+	  <textLabel>TAT_ST_006</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_006_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2807"/>
+	  <cost value="8150"/>
+	  <textLabel>TAT_ST_007</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_007_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2808"/>
+	  <cost value="14750"/>
+	  <textLabel>TAT_ST_008</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_008_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2809"/>
+	  <cost value="10800"/>
+	  <textLabel>TAT_ST_009</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_009_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2810"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_ST_010</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_010_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2811"/>
+	  <cost value="10750"/>
+	  <textLabel>TAT_ST_011</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_011_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2812"/>
+	  <cost value="11950"/>
+	  <textLabel>TAT_ST_012</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_012_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2813"/>
+	  <cost value="15500"/>
+	  <textLabel>TAT_ST_013</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_013_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2814"/>
+	  <cost value="8300"/>
+	  <textLabel>TAT_ST_014</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_014_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2815"/>
+	  <cost value="13400"/>
+	  <textLabel>TAT_ST_015</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_015_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_FRONT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2816"/>
+	  <cost value="12950"/>
+	  <textLabel>TAT_ST_016</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_016_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2817"/>
+	  <cost value="3800"/>
+	  <textLabel>TAT_ST_017</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_017_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2818"/>
+	  <cost value="5400"/>
+	  <textLabel>TAT_ST_018</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_018_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2819"/>
+	  <cost value="8900"/>
+	  <textLabel>TAT_ST_019</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_019_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2820"/>
+	  <cost value="6950"/>
+	  <textLabel>TAT_ST_020</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_020_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2821"/>
+	  <cost value="21200"/>
+	  <textLabel>TAT_ST_021</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_021_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>LEG_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2822"/>
+	  <cost value="16850"/>
+	  <textLabel>TAT_ST_022</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_022_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2823"/>
+	  <cost value="18500"/>
+	  <textLabel>TAT_ST_023</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_023_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2824"/>
+	  <cost value="8650"/>
+	  <textLabel>TAT_ST_024</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_024_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2825"/>
+	  <cost value="7200"/>
+	  <textLabel>TAT_ST_025</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_025_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2826"/>
+	  <cost value="12300"/>
+	  <textLabel>TAT_ST_026</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_026_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2827"/>
+	  <cost value="8950"/>
+	  <textLabel>TAT_ST_027</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_027_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2828"/>
+	  <cost value="9850"/>
+	  <textLabel>TAT_ST_028</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_028_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2829"/>
+	  <cost value="17350"/>
+	  <textLabel>TAT_ST_029</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_029_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2830"/>
+	  <cost value="8150"/>
+	  <textLabel>TAT_ST_030</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_030_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2831"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_ST_031</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_031_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_CALF</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2832"/>
+	  <cost value="10350"/>
+	  <textLabel>TAT_ST_032</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_032_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2833"/>
+	  <cost value="10400"/>
+	  <textLabel>TAT_ST_033</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_033_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2834"/>
+	  <cost value="9900"/>
+	  <textLabel>TAT_ST_034</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_034_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2835"/>
+	  <cost value="12700"/>
+	  <textLabel>TAT_ST_035</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_035_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2836"/>
+	  <cost value="2350"/>
+	  <textLabel>TAT_ST_036</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_036_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>HAND_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2837"/>
+	  <cost value="6850"/>
+	  <textLabel>TAT_ST_037</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_037_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2838"/>
+	  <cost value="5750"/>
+	  <textLabel>TAT_ST_038</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_038_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2839"/>
+	  <cost value="9350"/>
+	  <textLabel>TAT_ST_039</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_039_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2840"/>
+	  <cost value="15950"/>
+	  <textLabel>TAT_ST_040</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_040_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2841"/>
+	  <cost value="10100"/>
+	  <textLabel>TAT_ST_041</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_041_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2842"/>
+	  <cost value="4150"/>
+	  <textLabel>TAT_ST_042</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_042_M</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2843"/>
+	  <cost value="10300"/>
+	  <textLabel>TAT_ST_043</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_043_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2844"/>
+	  <cost value="13900"/>
+	  <textLabel>TAT_ST_044</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_044_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_STOM</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2845"/>
+	  <cost value="19650"/>
+	  <textLabel>TAT_ST_045</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_045_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>LEG_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2846"/>
+	  <cost value="12750"/>
+	  <textLabel>TAT_ST_046</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_046_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2847"/>
+	  <cost value="9200"/>
+	  <textLabel>TAT_ST_047</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_047_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2848"/>
+	  <cost value="11300"/>
+	  <textLabel>TAT_ST_048</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_048_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2849"/>
+	  <cost value="23000"/>
+	  <textLabel>TAT_ST_049</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_049_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female stunt tattoos -->
+	<Item>
+	  <id value="2850"/>
+	  <cost value="4850"/>
+	  <textLabel>TAT_ST_000</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_000_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>NECK_RIGHT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2851"/>
+	  <cost value="11600"/>
+	  <textLabel>TAT_ST_001</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_001_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2852"/>
+	  <cost value="8850"/>
+	  <textLabel>TAT_ST_002</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_002_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>HAND_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2853"/>
+	  <cost value="4300"/>
+	  <textLabel>TAT_ST_003</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_003_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2854"/>
+	  <cost value="6350"/>
+	  <textLabel>TAT_ST_004</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_004_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>FACE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2855"/>
+	  <cost value="8850"/>
+	  <textLabel>TAT_ST_005</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_005_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2856"/>
+	  <cost value="5900"/>
+	  <textLabel>TAT_ST_006</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_006_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2857"/>
+	  <cost value="8150"/>
+	  <textLabel>TAT_ST_007</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_007_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2858"/>
+	  <cost value="14750"/>
+	  <textLabel>TAT_ST_008</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_008_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2859"/>
+	  <cost value="10800"/>
+	  <textLabel>TAT_ST_009</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_009_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2860"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_ST_010</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_010_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2861"/>
+	  <cost value="10750"/>
+	  <textLabel>TAT_ST_011</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_011_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2862"/>
+	  <cost value="11950"/>
+	  <textLabel>TAT_ST_012</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_012_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2863"/>
+	  <cost value="15500"/>
+	  <textLabel>TAT_ST_013</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_013_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>LEG_LEFT_UPPER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2864"/>
+	  <cost value="8300"/>
+	  <textLabel>TAT_ST_014</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_014_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2865"/>
+	  <cost value="13400"/>
+	  <textLabel>TAT_ST_015</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_015_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_FRONT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2866"/>
+	  <cost value="12950"/>
+	  <textLabel>TAT_ST_016</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_016_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2867"/>
+	  <cost value="3800"/>
+	  <textLabel>TAT_ST_017</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_017_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2868"/>
+	  <cost value="5400"/>
+	  <textLabel>TAT_ST_018</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_018_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2869"/>
+	  <cost value="8900"/>
+	  <textLabel>TAT_ST_019</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_019_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2870"/>
+	  <cost value="6950"/>
+	  <textLabel>TAT_ST_020</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_020_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2871"/>
+	  <cost value="21200"/>
+	  <textLabel>TAT_ST_021</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_021_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>LEG_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2872"/>
+	  <cost value="16850"/>
+	  <textLabel>TAT_ST_022</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_022_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2873"/>
+	  <cost value="18500"/>
+	  <textLabel>TAT_ST_023</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_023_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2874"/>
+	  <cost value="8650"/>
+	  <textLabel>TAT_ST_024</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_024_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2875"/>
+	  <cost value="7200"/>
+	  <textLabel>TAT_ST_025</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_025_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>LEG_RIGHT_UPPER_OUTER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2876"/>
+	  <cost value="12300"/>
+	  <textLabel>TAT_ST_026</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_026_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2877"/>
+	  <cost value="8950"/>
+	  <textLabel>TAT_ST_027</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_027_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2878"/>
+	  <cost value="9850"/>
+	  <textLabel>TAT_ST_028</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_028_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2879"/>
+	  <cost value="17350"/>
+	  <textLabel>TAT_ST_029</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_029_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_LOWER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2880"/>
+	  <cost value="8150"/>
+	  <textLabel>TAT_ST_030</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_030_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2881"/>
+	  <cost value="11000"/>
+	  <textLabel>TAT_ST_031</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_031_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_CALF</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2882"/>
+	  <cost value="10350"/>
+	  <textLabel>TAT_ST_032</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_032_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2883"/>
+	  <cost value="10400"/>
+	  <textLabel>TAT_ST_033</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_033_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2884"/>
+	  <cost value="9900"/>
+	  <textLabel>TAT_ST_034</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_034_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2885"/>
+	  <cost value="12700"/>
+	  <textLabel>TAT_ST_035</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_035_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2886"/>
+	  <cost value="2350"/>
+	  <textLabel>TAT_ST_036</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_036_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>HAND_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2887"/>
+	  <cost value="6850"/>
+	  <textLabel>TAT_ST_037</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_037_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2888"/>
+	  <cost value="5750"/>
+	  <textLabel>TAT_ST_038</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_038_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2889"/>
+	  <cost value="9350"/>
+	  <textLabel>TAT_ST_039</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_039_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_SHOULDER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2890"/>
+	  <cost value="15950"/>
+	  <textLabel>TAT_ST_040</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_040_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2891"/>
+	  <cost value="10100"/>
+	  <textLabel>TAT_ST_041</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_041_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2892"/>
+	  <cost value="4150"/>
+	  <textLabel>TAT_ST_042</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_042_F</preset>
+	  <zone>PDZ_HEAD</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>NECK_LEFT_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2893"/>
+	  <cost value="10300"/>
+	  <textLabel>TAT_ST_043</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_043_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2894"/>
+	  <cost value="13900"/>
+	  <textLabel>TAT_ST_044</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_044_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_MID</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2895"/>
+	  <cost value="19650"/>
+	  <textLabel>TAT_ST_045</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_045_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>LEG_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2896"/>
+	  <cost value="12750"/>
+	  <textLabel>TAT_ST_046</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_046_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2897"/>
+	  <cost value="9200"/>
+	  <textLabel>TAT_ST_047</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_047_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2898"/>
+	  <cost value="11300"/>
+	  <textLabel>TAT_ST_048</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_048_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2899"/>
+	  <cost value="23000"/>
+	  <textLabel>TAT_ST_049</textLabel>
+	  <collection>mpStunt_overlays</collection>
+	  <preset>MP_MP_Stunt_Tat_049_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+  </TattooShopItems>
+</TattooShopItemArray>

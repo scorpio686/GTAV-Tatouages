@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<Item>
+	  <id value="2701"/>
+	  <cost value="6100"/>
+	  <textLabel>TAT_S1_001</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_001_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2702"/>
+	  <cost value="10250"/>
+	  <textLabel>TAT_S1_002</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_002_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_STOM</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2704"/>
+	  <cost value="3500"/>
+	  <textLabel>TAT_S1_004</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_004_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2705"/>
+	  <cost value="5900"/>
+	  <textLabel>TAT_S1_005</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_005_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2707"/>
+	  <cost value="5500"/>
+	  <textLabel>TAT_S1_007</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_007_M</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2709"/>
+	  <cost value="9500"/>
+	  <textLabel>TAT_S1_009</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_009_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2710"/>
+	  <cost value="16500"/>
+	  <textLabel>TAT_S1_010</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_010_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2713"/>
+	  <cost value="8300"/>
+	  <textLabel>TAT_S1_013</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_013_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2714"/>
+	  <cost value="17750"/>
+	  <textLabel>TAT_S1_014</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_014_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2715"/>
+	  <cost value="6150"/>
+	  <textLabel>TAT_S1_015</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_015_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2717"/>
+	  <cost value="7700"/>
+	  <textLabel>TAT_S1_017</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_017_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2720"/>
+	  <cost value="6850"/>
+	  <textLabel>TAT_S1_020</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_020_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2721"/>
+	  <cost value="15000"/>
+	  <textLabel>TAT_S1_021</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_021_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2723"/>
+	  <cost value="6500"/>
+	  <textLabel>TAT_S1_023</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_023_M</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2724"/>
+	  <cost value="7400"/>
+	  <textLabel>TAT_S1_026</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_026_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2725"/>
+	  <cost value="7800"/>
+	  <textLabel>TAT_S1_027</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_027_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2731"/>
+	  <cost value="10000"/>
+	  <textLabel>TAT_S1_033</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_033_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+
+	<Item>
+	  <id value="2701"/>
+	  <cost value="6100"/>
+	  <textLabel>TAT_S1_001</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_001_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2702"/>
+	  <cost value="10250"/>
+	  <textLabel>TAT_S1_002</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_002_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_STOM</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2704"/>
+	  <cost value="3500"/>
+	  <textLabel>TAT_S1_004</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_004_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>TORSO_SIDE_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2705"/>
+	  <cost value="5900"/>
+	  <textLabel>TAT_S1_005</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_005_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2707"/>
+	  <cost value="5500"/>
+	  <textLabel>TAT_S1_007</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_007_F</preset>
+	  <zone>PDZ_LEFT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2709"/>
+	  <cost value="9500"/>
+	  <textLabel>TAT_S1_009</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_009_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2710"/>
+	  <cost value="16500"/>
+	  <textLabel>TAT_S1_010</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_010_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2713"/>
+	  <cost value="8300"/>
+	  <textLabel>TAT_S1_013</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_013_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2714"/>
+	  <cost value="17750"/>
+	  <textLabel>TAT_S1_014</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_014_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2715"/>
+	  <cost value="6150"/>
+	  <textLabel>TAT_S1_015</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_015_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2717"/>
+	  <cost value="7700"/>
+	  <textLabel>TAT_S1_017</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_017_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2720"/>
+	  <cost value="6850"/>
+	  <textLabel>TAT_S1_020</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_020_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>LEG_LEFT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2721"/>
+	  <cost value="15000"/>
+	  <textLabel>TAT_S1_021</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_021_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2723"/>
+	  <cost value="6500"/>
+	  <textLabel>TAT_S1_023</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_023_F</preset>
+	  <zone>PDZ_RIGHT_LEG</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2724"/>
+	  <cost value="7400"/>
+	  <textLabel>TAT_S1_026</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_026_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2725"/>
+	  <cost value="7800"/>
+	  <textLabel>TAT_S1_027</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_027_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="2731"/>
+	  <cost value="10000"/>
+	  <textLabel>TAT_S1_033</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_LR_Tat_033_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Male White Baggy T-shirt -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="900" />
+	  <textLabel>CLO_S1M_DEC_1</textLabel>		<!-- White Trickster Curl T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="920" />
+	  <textLabel>CLO_S1M_DEC_2</textLabel>		<!-- White Trickster Straight T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="840" />
+	  <textLabel>CLO_S1M_DEC_3</textLabel>		<!-- White Trickster Gothic T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="875" />
+	  <textLabel>CLO_S1M_DEC_4</textLabel>		<!-- White Trickster Dude T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_006_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="935" />
+	  <textLabel>CLO_S1M_DEC_5</textLabel>		<!-- White Trickster Skull T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_010_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Male Black Baggy T-shirt -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="950" />
+	  <textLabel>CLO_S1M_DEC_6</textLabel>		<!-- Black Trickster Curl T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="970" />
+	  <textLabel>CLO_S1M_DEC_7</textLabel>		<!-- Black Trickster Straight T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="820" />
+	  <textLabel>CLO_S1M_DEC_8</textLabel>		<!-- Black Trickster Gothic T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="855" />
+	  <textLabel>CLO_S1M_DEC_9</textLabel>		<!-- Black Trickster Dude T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_007_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Male White Sport T-shirt -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="1635" />
+	  <textLabel>CLO_S1M_DEC_10</textLabel>		<!-- White 68 Football Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_008_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Male Black Sport T-shirt -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="1695" />
+	  <textLabel>CLO_S1M_DEC_11</textLabel>		<!-- Black 68 Football Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_009_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Male White Sweater -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="4280" />
+	  <textLabel>CLO_S1M_DEC_12</textLabel>		<!-- Broker City Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Male Black Sweater -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="4295" />
+	  <textLabel>CLO_S1M_DEC_13</textLabel>		<!-- Broker B Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4415" />
+	  <textLabel>CLO_S1M_DEC_14</textLabel>		<!-- Broker Scroll Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4325" />
+	  <textLabel>CLO_S1M_DEC_15</textLabel>		<!-- Black Broker Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4930" />
+	  <textLabel>CLO_S1M_DEC_16</textLabel>		<!-- Black Magnetics Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4945" />
+	  <textLabel>CLO_S1M_DEC_17</textLabel>		<!-- Black Magnetics Bold Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Male Gray Sweater -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="4340" />
+	  <textLabel>CLO_S1M_DEC_18</textLabel>		<!-- Gray Broker Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4355" />
+	  <textLabel>CLO_S1M_DEC_19</textLabel>		<!-- Broker Club Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4900" />
+	  <textLabel>CLO_S1M_DEC_20</textLabel>		<!-- Gray Magnetics Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4900" />
+	  <textLabel>CLO_S1M_DEC_21</textLabel>		<!-- Magnetics Script M Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4810" />
+	  <textLabel>CLO_S1M_DEC_22</textLabel>		<!-- Magnetics Hard M Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4870" />
+	  <textLabel>CLO_S1M_DEC_23</textLabel>		<!-- Gray Magnetics Bold Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- Fake -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="825" />
+	  <textLabel>CLO_S1M_U_0_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsTShirt_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="760" />
+	  <textLabel>CLO_S1M_U_0_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsTShirt_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="745" />
+	  <textLabel>CLO_S1M_U_0_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsTShirt_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1500" />
+	  <textLabel>CLO_S1M_U_1_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Sports_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1135" />
+	  <textLabel>CLO_S1M_U_1_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Sports_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="1250" />
+	  <textLabel>CLO_S1M_U_1_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_Sports_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4300" />
+	  <textLabel>CLO_S1M_U_9_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsSweater_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4120" />
+	  <textLabel>CLO_S1M_U_9_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsSweater_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4050" />
+	  <textLabel>CLO_S1M_U_9_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsSweater_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4290" />
+	  <textLabel>CLO_S1M_U_9_3</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_SportsSweater_3</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female White Sweater -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="4280" />
+	  <textLabel>CLO_S1F_DEC_1</textLabel>		<!-- Broker City Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female Black Sweater -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="4295" />
+	  <textLabel>CLO_S1F_DEC_2</textLabel>		<!-- Broker B Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4415" />
+	  <textLabel>CLO_S1F_DEC_3</textLabel>		<!-- Broker Scroll Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4325" />
+	  <textLabel>CLO_S1F_DEC_4</textLabel>		<!-- Black Broker Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4930" />
+	  <textLabel>CLO_S1F_DEC_5</textLabel>		<!-- Black Magnetics Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4945" />
+	  <textLabel>CLO_S1F_DEC_6</textLabel>		<!-- Black Magnetics Bold Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female Gray Sweater -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="4340" />
+	  <textLabel>CLO_S1F_DEC_7</textLabel>		<!-- Gray Broker Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4355" />
+	  <textLabel>CLO_S1F_DEC_8</textLabel>		<!-- Broker Club Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Broker_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4885" />
+	  <textLabel>CLO_S1F_DEC_9</textLabel>		<!-- Gray Magnetics Logo Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4900" />
+	  <textLabel>CLO_S1F_DEC_10</textLabel>		<!-- Magnetics Script M Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4870" />
+	  <textLabel>CLO_S1F_DEC_11</textLabel>		<!-- Magnetics Hard M Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4870" />
+	  <textLabel>CLO_S1F_DEC_12</textLabel>		<!-- Gray Magnetics Bold Sweater -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Magnetics_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female White T-Shirt -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="900" />
+	  <textLabel>CLO_S1F_DEC_13</textLabel>		<!-- White Trickster Script T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="920" />
+	  <textLabel>CLO_S1F_DEC_14</textLabel>		<!-- White Trickster Flick T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="840" />
+	  <textLabel>CLO_S1F_DEC_15</textLabel>		<!-- White Trickster Gothic T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="875" />
+	  <textLabel>CLO_S1F_DEC_16</textLabel>		<!-- White Trickster Dude T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_006_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="935" />
+	  <textLabel>CLO_S1F_DEC_17</textLabel>		<!-- White Trickster Skull T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_010_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female Black T-Shirt -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="950" />
+	  <textLabel>CLO_S1F_DEC_18</textLabel>		<!-- Black Trickster Script T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="970" />
+	  <textLabel>CLO_S1F_DEC_19</textLabel>		<!-- Black Trickster Flick T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="820" />
+	  <textLabel>CLO_S1F_DEC_20</textLabel>		<!-- Black Trickster Gothic T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="855" />
+	  <textLabel>CLO_S1F_DEC_21</textLabel>		<!-- Black Trickster Dude T-Shirt -->
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Trickster_007_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Fake -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="500" />
+	  <textLabel>CLO_S1F_U_0_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_TuckedTShirt_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="495" />
+	  <textLabel>CLO_S1F_U_0_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_TuckedTShirt_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="455" />
+	  <textLabel>CLO_S1F_U_0_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_TuckedTShirt_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4300" />
+	  <textLabel>CLO_S1F_U_6_0</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_FSportsSweater_0</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4120" />
+	  <textLabel>CLO_S1F_U_6_1</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_FSportsSweater_1</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4050" />
+	  <textLabel>CLO_S1F_U_6_2</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_FSportsSweater_2</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="4290" />
+	  <textLabel>CLO_S1F_U_6_3</textLabel>
+	  <collection>mpDummy</collection>
+	  <preset>Blank_FSportsSweater_3</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- [END] T-shirt decals -->
+	
+	<!-- [START] hair decals -->
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_M_Hair_000</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_M_Hair_001</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_M_Hair_002</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_M_Hair_003</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_F_Hair_000</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_F_Hair_001</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_F_Hair_002</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<Item>
+		<id value="0"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpLowrider_overlays</collection>
+		<preset>LR_F_Hair_003_OLD</preset>
+		<updateGroup>hairOverlay</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_HEAD</zone>
+	</Item>
+	<!-- [END] hair decals -->
+	
+	<!-- [START] T-shirt decals (Benny's) -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="1200" />
+	  <textLabel>CLO_S1M_DEC_24</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Bennys_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="995" />
+	  <textLabel>CLO_S1M_DEC_25</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Bennys_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="1200" />
+	  <textLabel>CLO_S1F_DEC_22</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Bennys_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="995" />
+	  <textLabel>CLO_S1F_DEC_23</textLabel>
+	  <collection>mpLowrider_overlays</collection>
+	  <preset>MP_Bennys_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- [END] T-shirt decals (Benny's) -->
+	
+	
+	<!-- [START] T-shirt decals (Halloween) -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_0</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_1</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_001_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_2</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_002_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_3</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_003_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_4</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_004_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_5</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_005_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_6</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_006_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_7</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_007_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_8</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_008_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_9</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_009_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_10</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_010_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_11</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_011_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALM_D_12</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_012_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_0</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_000_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_1</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_2</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_002_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_3</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_003_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_4</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_004_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_5</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_005_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_6</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_006_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_7</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_007_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_8</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_008_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_9</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_009_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_10</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_010_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_11</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_011_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_HALF_D_12</textLabel>
+	  <collection>mpHalloween_overlays</collection>
+	  <preset>HW_Tee_012_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- [END] T-shirt decals (Halloween) -->
+  </TattooShopItems>
+</TattooShopItemArray>

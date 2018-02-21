@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TattooShopItemArray>
+  <TattooShopItems>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="5500" />
+      <textLabel>TAT_BUS_000</textLabel>
+      <id value="600" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Back_000</preset>
+      <updateGroup>BACK_2</updateGroup>
+      <eFacing>TATTOO_BACK</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="3250" />
+      <textLabel>TAT_BUS_001</textLabel>
+      <id value="601" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Chest_000</preset>
+      <updateGroup>CHEST_LEFT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="3500" />
+      <textLabel>TAT_BUS_002</textLabel>
+      <id value="602" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Chest_001</preset>
+      <updateGroup>CHEST_RIGHT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="3500" />
+      <textLabel>TAT_BUS_003</textLabel>
+      <id value="603" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_LeftArm_000</preset>
+      <updateGroup>ARM_LEFT_1</updateGroup>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="7300" />
+      <textLabel>TAT_BUS_004</textLabel>
+      <id value="604" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_LeftArm_001</preset>
+      <updateGroup>ARM_LEFT_SLEEVE</updateGroup>
+      <eFacing>TATTOO_LEFT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="5000" />
+      <textLabel>TAT_BUS_005</textLabel>
+      <id value="605" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Neck_000</preset>
+      <updateGroup>NECK_FRONT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1600" />
+      <textLabel>TAT_BUS_006</textLabel>
+      <id value="606" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Neck_001</preset>
+      <updateGroup>NECK_RIGHT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1750" />
+      <textLabel>TAT_BUS_007</textLabel>
+      <id value="607" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Neck_002</preset>
+      <updateGroup>NECK_LEFT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="6900" />
+      <textLabel>TAT_BUS_008</textLabel>
+      <id value="608" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Neck_003</preset>
+      <updateGroup>NECK_BACK</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="4800" />
+      <textLabel>TAT_BUS_009</textLabel>
+      <id value="609" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_RightArm_000</preset>
+      <updateGroup>ARM_RIGHT</updateGroup>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1500" />
+      <textLabel>TAT_BUS_010</textLabel>
+      <id value="610" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_RightArm_001</preset>
+      <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="6400" />
+      <textLabel>TAT_BUS_011</textLabel>
+      <id value="611" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_M_Stomach_000</preset>
+      <updateGroup>STOMACH_MID</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="20000" />
+      <textLabel>TAT_BUS_012</textLabel>
+      <id value="641" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Male_Crew_Tat_000</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="19500" />
+      <textLabel>TAT_BUS_013</textLabel>
+      <id value="642" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Male_Crew_Tat_001</preset>
+      <updateGroup>ARM_RIGHT</updateGroup>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="4200" />
+      <textLabel>TAT_BUS_F_000</textLabel>
+      <id value="612" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Back_000</preset>
+      <updateGroup>BACK_2</updateGroup>
+      <eFacing>TATTOO_BACK</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="4000" />
+      <textLabel>TAT_BUS_F_001</textLabel>
+      <id value="613" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Back_001</preset>
+      <updateGroup>BACK_2</updateGroup>
+      <eFacing>TATTOO_BACK</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="7000" />
+      <textLabel>TAT_BUS_F_002</textLabel>
+      <id value="614" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Chest_000</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="7200" />
+      <textLabel>TAT_BUS_F_003</textLabel>
+      <id value="615" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Chest_001</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1600" />
+      <textLabel>TAT_BUS_F_004</textLabel>
+      <id value="616" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Chest_002</preset>
+      <updateGroup>CHEST_LEFT_UPPER</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="5500" />
+      <textLabel>TAT_BUS_F_005</textLabel>
+      <id value="617" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_LArm_000</preset>
+      <updateGroup>ARM_LEFT_1</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="4850" />
+      <textLabel>TAT_BUS_F_006</textLabel>
+      <id value="618" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_LLeg_000</preset>
+      <updateGroup>LEG_LEFT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1900" />
+      <textLabel>TAT_BUS_F_007</textLabel>
+      <id value="619" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Neck_000</preset>
+      <updateGroup>NECK_RIGHT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="2500" />
+      <textLabel>TAT_BUS_F_008</textLabel>
+      <id value="620" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Neck_001</preset>
+      <updateGroup>NECK_LEFT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="4900" />
+      <textLabel>TAT_BUS_F_009</textLabel>
+      <id value="621" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_RArm_000</preset>
+      <updateGroup>ARM_RIGHT_LOWER</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="4500" />
+      <textLabel>TAT_BUS_F_010</textLabel>
+      <id value="622" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_RLeg_000</preset>
+      <updateGroup>LEG_RIGHT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="6800" />
+      <textLabel>TAT_BUS_F_011</textLabel>
+      <id value="623" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Stom_000</preset>
+      <updateGroup>STOMACH_MID</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1800" />
+      <textLabel>TAT_BUS_F_012</textLabel>
+      <id value="624" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Stom_001</preset>
+      <updateGroup>STOMACH_LEFT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="1500" />
+      <textLabel>TAT_BUS_F_013</textLabel>
+      <id value="625" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Buis_F_Stom_002</preset>
+      <updateGroup>STOMACH_RIGHT</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="20000" />
+      <textLabel>TAT_BUS_F_014</textLabel>
+      <id value="643" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Female_Crew_Tat_000</preset>
+      <updateGroup>CHEST_FULL</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="19500" />
+      <textLabel>TAT_BUS_F_015</textLabel>
+      <id value="644" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>MP_Female_Crew_Tat_001</preset>
+      <updateGroup>ARM_RIGHT</updateGroup>
+      <eFacing>TATTOO_RIGHT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="626" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_F_Hair_a</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="627" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_F_Hair_b</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="628" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_F_Hair_c</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="629" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_F_Hair_d</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="630" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_F_Hair_e</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="631" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_000_a</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="632" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_000_b</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="633" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_000_c</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="634" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_000_d</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="635" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_000_e</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="636" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_001_a</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="637" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_001_b</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="638" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_001_c</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="639" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_001_d</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+    <Item>
+      <lockHash>CU_BUSINESS_TATTOOS</lockHash>
+      <cost value="0" />
+      <textLabel />
+      <id value="640" />
+      <collection>mpBusiness_overlays</collection>
+      <preset>FM_Bus_M_Hair_001_e</preset>
+      <updateGroup>hairOverlay</updateGroup>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <eFaction>TATTOO_MP_FM</eFaction>
+    </Item>
+  </TattooShopItems>
+  <nameHash />
+</TattooShopItemArray>

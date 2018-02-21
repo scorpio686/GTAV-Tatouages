@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	
+	<!-- MALE SHIRT DECALS -->
+	<Item>
+		<id value="11000"/>
+		<cost value="0"/>
+		<textLabel>CLO_PIM_D_1</textLabel>
+		<collection>mpPilot_overlays</collection>
+		<preset>MP_Fli_M_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_PILOT_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE SHIRT DECALS -->
+	<Item>
+		<id value="12000"/>
+		<cost value="0"/>
+		<textLabel>CLO_PIF_D_1</textLabel>
+		<collection>mpPilot_overlays</collection>
+		<preset>MP_Fli_F_Tshirt_000</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_PILOT_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- MALE CG TO NG DECALS -->
+	<Item>
+		<id value="740"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_0</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_000_m</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="741"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_1</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_001_m</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="742"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_2</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_002_m</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="743"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_3</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_003_m</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE CG TO NG DECALS -->
+	<Item>
+		<id value="744"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_4</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_000_f</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="745"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_5</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_001_f</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="746"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_6</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_002_f</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="747"/>
+		<cost value="0"/>
+		<textLabel>CLO_OG_DECL_7</textLabel>
+		<collection>multiplayer_overlays</collection>
+		<preset>mp_fm_OGA_003_f</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash />
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

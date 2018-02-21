@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<!-- Male Import Export tattoos -->
+	<Item>
+	  <id value=" 3000 "/>
+	  <cost value="13780"/>
+	  <textLabel>TAT_IE_000</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_000_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3001 "/>
+	  <cost value="12900"/>
+	  <textLabel>TAT_IE_001</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_001_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3002 "/>
+	  <cost value="12120"/>
+	  <textLabel>TAT_IE_002</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_002_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3003 "/>
+	  <cost value="17200"/>
+	  <textLabel>TAT_IE_003</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_003_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3004 "/>
+	  <cost value="16350"/>
+	  <textLabel>TAT_IE_004</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_004_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3005 "/>
+	  <cost value="18615"/>
+	  <textLabel>TAT_IE_005</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_005_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3006 "/>
+	  <cost value="15720"/>
+	  <textLabel>TAT_IE_006</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_006_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3007 "/>
+	  <cost value="16685"/>
+	  <textLabel>TAT_IE_007</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_007_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3008 "/>
+	  <cost value="19900"/>
+	  <textLabel>TAT_IE_008</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_008_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3009 "/>
+	  <cost value="16500"/>
+	  <textLabel>TAT_IE_009</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_009_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3010 "/>
+	  <cost value="14235"/>
+	  <textLabel>TAT_IE_010</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_010_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3011 "/>
+	  <cost value="15985"/>
+	  <textLabel>TAT_IE_011</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_011_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female Import Export tattoos -->
+	<Item>
+	  <id value=" 3500 "/>
+	  <cost value="13780"/>
+	  <textLabel>TAT_IE_000</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_000_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3501 "/>
+	  <cost value="12900"/>
+	  <textLabel>TAT_IE_001</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_001_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3502 "/>
+	  <cost value="12120"/>
+	  <textLabel>TAT_IE_002</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_002_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3503 "/>
+	  <cost value="17200"/>
+	  <textLabel>TAT_IE_003</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_003_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3504 "/>
+	  <cost value="16350"/>
+	  <textLabel>TAT_IE_004</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_004_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3505 "/>
+	  <cost value="18615"/>
+	  <textLabel>TAT_IE_005</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_005_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3506 "/>
+	  <cost value="15720"/>
+	  <textLabel>TAT_IE_006</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_006_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3507 "/>
+	  <cost value="16685"/>
+	  <textLabel>TAT_IE_007</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_007_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3508 "/>
+	  <cost value="19900"/>
+	  <textLabel>TAT_IE_008</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_008_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3509 "/>
+	  <cost value="16500"/>
+	  <textLabel>TAT_IE_009</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_009_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3510 "/>
+	  <cost value="14235"/>
+	  <textLabel>TAT_IE_010</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_010_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value=" 3511 "/>
+	  <cost value="15985"/>
+	  <textLabel>TAT_IE_011</textLabel>
+	  <collection>mpImportExport_overlays</collection>
+	  <preset>MP_MP_ImportExport_Tat_011_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+  </TattooShopItems>
+</TattooShopItemArray>

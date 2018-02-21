@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+    
+	<!-- SECUROSERV t-shirts -->
+	<Item>
+      <id value="0"/>
+      <cost value="1420"/>
+      <textLabel>CLO_EXM_DECL_0</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_Securoserv_000_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="1420"/>
+      <textLabel>CLO_EXF_DECL_0</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_Securoserv_000_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+	<!-- SECUROSERV2 sweaters -->
+	<Item>
+      <id value="0"/>
+      <cost value="3850"/>
+      <textLabel>CLO_EXM_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_Securoserv_000_Mb</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="3850"/>
+      <textLabel>CLO_EXF_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_Securoserv_000_Fb</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+	<!-- Power Play Team Sport Overlays -->
+	<!-- Male -->
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_000_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_001_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_002_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_003_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+
+	<!-- Female -->
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_000_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_001_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_002_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_1</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_teams_003_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+	<!-- url:bugstar:2751390 - Event Prizes: -	New Tshirt Decals of in game brands (15) -->
+	<!-- MALE -->
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_2</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_000_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_3</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_001_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_4</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_002_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_5</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_003_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_6</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_004_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_7</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_005_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_8</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_006_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_9</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_007_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_10</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_008_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_11</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_009_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_12</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_010_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_13</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_011_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_14</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_012_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_15</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_013_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_16</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_014_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+	<!-- FEMALE -->
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_2</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_000_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_3</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_001_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_4</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_002_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_5</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_003_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_6</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_004_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_7</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_005_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_8</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_006_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_9</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_007_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_10</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_008_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_11</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_009_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_12</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_010_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_13</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_011_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_14</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_012_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_15</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_013_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_16</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_014_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+	<!-- DCTL t-shirts -->
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXM_DECL_17</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_015_M</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	<Item>
+      <id value="0"/>
+      <cost value="0"/>
+      <textLabel>CLO_EXF_DECL_17</textLabel>
+      <collection>mpExecutive_overlays</collection>
+      <preset>MP_exec_prizes_015_F</preset>
+      <updateGroup>torsoDecal</updateGroup>
+      <eFaction>TATTOO_MP_FM_F</eFaction>
+      <eFacing>TATTOO_FRONT</eFacing>
+      <lockHash>CU_EXE_TATTOOS</lockHash>
+      <zone>PDZ_TORSO</zone>
+    </Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

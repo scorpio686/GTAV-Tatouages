@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+  
+  
+	
+	<!-- [START] T-shirt decals (I HEART LC) -->
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_X3M_DEC_00</textLabel>
+	  <collection>mpxmas_604490_overlays</collection>
+	  <preset>MP_IHeartLC_000_M</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<Item>
+	  <id value="0"/>
+	  <cost value="0" />
+	  <textLabel>CLO_X3F_DEC_00</textLabel>
+	  <collection>mpxmas_604490_overlays</collection>
+	  <preset>MP_IHeartLC_001_F</preset>
+	  <zone>ZONE_TORSO</zone>
+	  <updateGroup>torsoDecal</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<!-- [END] T-shirt decals (I HEART LC) -->
+  </TattooShopItems>
+</TattooShopItemArray>

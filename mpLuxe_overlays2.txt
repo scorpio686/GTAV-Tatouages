@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	
+	<!-- [START] T-shirt decals -->
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_29</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_DIS_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_30</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_DIS_001_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_31</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_DS_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_32</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_ENEMA_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_33</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_LB_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_34</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_LC_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_35</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_SC_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_36</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_Vap_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_37</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_Per_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_38</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_SN_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="1990"/>
+	    <textLabel>CLO_LXM_U_5_4</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_Per_001_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2600"/>
+	    <textLabel>CLO_LXM_DEC_28</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2065"/>
+	    <textLabel>CLO_LXM_DEC_0</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_001_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel />
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_003_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2080"/>
+	    <textLabel>CLO_LXM_DEC_2</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_004_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel />
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_005_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel />
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_006_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel />
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_007_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="1600"/>
+	    <textLabel>CLO_LXM_DEC_3</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_DIX_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1550"/>
+	    <textLabel>CLO_LXM_DEC_4</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_DIX_001_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1500"/>
+	    <textLabel>CLO_LXM_DEC_5</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_DIX_002_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2500"/>
+	    <textLabel>CLO_LXM_DEC_6</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_ENEMA_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1800"/>
+	    <textLabel>CLO_LXM_DEC_15</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_LC_010_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1815"/>
+	    <textLabel>CLO_LXM_DEC_16</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_LC_011_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1650"/>
+	    <textLabel>CLO_LXM_DEC_21</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SC_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2155"/>
+	    <textLabel>CLO_LXM_U_5_13</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_002_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<!-- FEMALE -->
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_29</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_DIS_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_30</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_DIS_001_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_31</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_DS_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_32</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_ENEMA_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_33</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_LB_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_34</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_LC_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_35</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_SC_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_36</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_Vap_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_37</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_Per_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXF_DEC_38</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FAKE_SN_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="1990"/>
+	    <textLabel>CLO_LXF_U_6_4</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_Per_001_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel />
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_003_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel />
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_007_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2080"/>
+	    <textLabel>CLO_LXF_DEC_0</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_004_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2065"/>
+	    <textLabel>CLO_LXF_DEC_1</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_001_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2600"/>
+	    <textLabel>CLO_LXF_DEC_28</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1600"/>
+	    <textLabel>CLO_LXF_DEC_3</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_DIX_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1550"/>
+	    <textLabel>CLO_LXF_DEC_4</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_DIX_001_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1500"/>
+	    <textLabel>CLO_LXF_DEC_5</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_DIX_002_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="2500"/>
+	    <textLabel>CLO_LXF_DEC_12</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_ENEMA_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1650"/>
+	    <textLabel>CLO_LXF_DEC_13</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SC_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1800"/>
+	    <textLabel>CLO_LXF_DEC_22</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_LC_010_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="1815"/>
+	    <textLabel>CLO_LXF_DEC_23</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_LC_011_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_27</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_VDG_006_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_27</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_VDG_006_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_LXM_DEC_27</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_VDG_006_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="2155"/>
+	    <textLabel>CLO_LXF_U_6_13</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_LUXE_SN_002_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<!-- [END] T-shirt decals -->
+	
+	<Item>
+	    <id value="2600"/>
+	    <cost value="11900"/>
+	    <textLabel>TAT_LX_000</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_000_M</preset>
+	    <zone>PDZ_LEFT_LEG</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>LEG_LEFT_LOWER_BACK</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2601"/>
+	    <cost value="14350"/>
+	    <textLabel>TAT_LX_001</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_001_M</preset>
+	    <zone>PDZ_RIGHT_LEG</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2603"/>
+	    <cost value="8350"/>
+	    <textLabel>TAT_LX_003</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_003_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>STOMACH_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2604"/>
+	    <cost value="12200"/>
+	    <textLabel>TAT_LX_004</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_004_M</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2606"/>
+	    <cost value="25000"/>
+	    <textLabel>TAT_LX_006</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_006_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>BACK_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2607"/>
+	    <cost value="12450"/>
+	    <textLabel>TAT_LX_007</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_007_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_LEFT</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2608"/>
+	    <cost value="18000"/>
+	    <textLabel>TAT_LX_008</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_008_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_LEFT</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2609"/>
+	    <cost value="19150"/>
+	    <textLabel>TAT_LX_009</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_009_M</preset>
+	    <zone>PDZ_LEFT_ARM</zone>
+	    <eFacing>TATTOO_LEFT</eFacing>
+	    <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2613"/>
+	    <cost value="16900"/>
+	    <textLabel>TAT_LX_013</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_013_M</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2614"/>
+	    <cost value="18200"/>
+	    <textLabel>TAT_LX_014</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_014_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_MID</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2615"/>
+	    <cost value="16250"/>
+	    <textLabel>TAT_LX_015</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_015_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_RIGHT</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2619"/>
+	    <cost value="16850"/>
+	    <textLabel>TAT_LX_019</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_019_M</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_UPPER_SIDE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2620"/>
+	    <cost value="22500"/>
+	    <textLabel>TAT_LX_020</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_020_M</preset>
+	    <zone>PDZ_LEFT_ARM</zone>
+	    <eFacing>TATTOO_LEFT</eFacing>
+	    <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2621"/>
+	    <cost value="12850"/>
+	    <textLabel>TAT_LX_021</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_021_M</preset>
+	    <zone>PDZ_LEFT_ARM</zone>
+	    <eFacing>TATTOO_LEFT</eFacing>
+	    <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2624"/>
+	    <cost value="27250"/>
+	    <textLabel>TAT_LX_024</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_024_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>BACK_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<Item>
+	    <id value="2632"/>
+	    <cost value="11900"/>
+	    <textLabel>TAT_LX_000</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_000_F</preset>
+	    <zone>PDZ_LEFT_LEG</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>LEG_LEFT_LOWER_BACK</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2633"/>
+	    <cost value="14350"/>
+	    <textLabel>TAT_LX_001</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_001_F</preset>
+	    <zone>PDZ_RIGHT_LEG</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>LEG_RIGHT_LOWER_BACK</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2635"/>
+	    <cost value="8350"/>
+	    <textLabel>TAT_LX_003</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_003_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>STOMACH_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2636"/>
+	    <cost value="12200"/>
+	    <textLabel>TAT_LX_004</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_004_F</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2638"/>
+	    <cost value="25000"/>
+	    <textLabel>TAT_LX_006</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_006_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>BACK_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2639"/>
+	    <cost value="12450"/>
+	    <textLabel>TAT_LX_007</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_007_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_LEFT</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2640"/>
+	    <cost value="18000"/>
+	    <textLabel>TAT_LX_008</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_008_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_LEFT</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2641"/>
+	    <cost value="19150"/>
+	    <textLabel>TAT_LX_009</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_009_F</preset>
+	    <zone>PDZ_LEFT_ARM</zone>
+	    <eFacing>TATTOO_LEFT</eFacing>
+	    <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2645"/>
+	    <cost value="16900"/>
+	    <textLabel>TAT_LX_013</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_013_F</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2646"/>
+	    <cost value="18200"/>
+	    <textLabel>TAT_LX_014</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_014_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_MID</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2647"/>
+	    <cost value="16250"/>
+	    <textLabel>TAT_LX_015</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_015_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_FRONT</eFacing>
+	    <updateGroup>CHEST_RIGHT</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2651"/>
+	    <cost value="16850"/>
+	    <textLabel>TAT_LX_019</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_019_F</preset>
+	    <zone>PDZ_RIGHT_ARM</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_UPPER_SIDE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2652"/>
+	    <cost value="22500"/>
+	    <textLabel>TAT_LX_020</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_020_F</preset>
+	    <zone>PDZ_LEFT_ARM</zone>
+	    <eFacing>TATTOO_LEFT</eFacing>
+	    <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2653"/>
+	    <cost value="12850"/>
+	    <textLabel>TAT_LX_021</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_021_F</preset>
+	    <zone>PDZ_LEFT_ARM</zone>
+	    <eFacing>TATTOO_LEFT</eFacing>
+	    <updateGroup>ARM_LEFT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="2656"/>
+	    <cost value="27250"/>
+	    <textLabel>TAT_LX_024</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_Luxe_Tat_024_F</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_BACK</eFacing>
+	    <updateGroup>BACK_FULL</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	
+	
+	
+	
+	<!-- [START] More t-shirt decals -->
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_39</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_000_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_40</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_001_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_41</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_002_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_42</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_003_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_43</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_004_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_44</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_005_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_45</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_006_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_46</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_007_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_47</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_008_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEM_DEC_48</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_009_M</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<!-- FEMALE -->
+	
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_39</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_000_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_40</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_001_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_41</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_002_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_42</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_003_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_43</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_004_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_44</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_005_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_45</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_006_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_46</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_007_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_47</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_008_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="0"/>
+	    <cost value="0"/>
+	    <textLabel>CLO_VEF_DEC_48</textLabel>
+	    <collection>mpLuxe_overlays</collection>
+	    <preset>MP_FILM_009_F</preset>
+	    <zone>ZONE_TORSO</zone>
+		<updateGroup>torsoDecal</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CU_LUXE_TATTOOS</lockHash>
+	</Item>
+	
+	<!-- [END] T-shirt decals -->
+	
+	
+  </TattooShopItems>
+</TattooShopItemArray>
